@@ -59,12 +59,14 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - **EGU General Assembly** — European Geosciences Union General Assembly  
   https://www.egu.eu/
 
-- **CPGIS / Geoinformatics** — International Conference on Geoinformatics
+- **CPGIS / Geoinformatics** — International Conference on Geoinformatics<br>
   https://www.cpgis.org/
+  
+- **AutoCarto** — International Research Symposium on Computer-Based Cartography and GIScience  
+  https://cartogis.org/autocarto/
 
----
 
-## Workshops (AI Conferences)
+### Workshops (AI Conferences)
 *GeoAI-, Earth-, and Science-oriented workshops hosted at major AI conferences.*
 
 > These workshops often serve as the primary venues for GeoAI and AI4Science research within AI-focused conferences.
