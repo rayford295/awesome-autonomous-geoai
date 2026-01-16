@@ -49,7 +49,9 @@ covering theory, models, datasets, software, and applications in geospatial inte
 
 - **ISPRS Congress** – ISPRS Congress of Photogrammetry and Remote Sensing  
   https://www.isprs.org/society/congress.aspx
-
-
-
-
+  
+- **GIScience** – International Conference on Geographic Information Science  
+  https://giscience.org/
+  
+- **International Cartographic Conference (ICC)** — Conference of the International Cartographic Association  
+  https://icaci.org/icc/
