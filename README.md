@@ -58,3 +58,36 @@ covering theory, models, datasets, software, and applications in geospatial inte
   
 - **EGU General Assembly** — European Geosciences Union General Assembly  
   https://www.egu.eu/
+
+- **CPGIS / Geoinformatics** — International Conference on Geoinformatics
+  https://www.cpgis.org/
+
+---
+
+## Workshops (AI Conferences)
+*GeoAI-, Earth-, and Science-oriented workshops hosted at major AI conferences.*
+
+> These workshops often serve as the primary venues for GeoAI and AI4Science research within AI-focused conferences.
+
+---
+
+- **EarthVision (CVPR Workshop)** — Earth Observation and Vision Workshop  
+  https://earthvision.work/
+
+- **GeoCV (CVPR Workshop)** — Computer Vision for Geospatial Applications  
+  https://geocv-workshop.github.io/
+
+- **RS-CV (CVPR Workshop)** — Remote Sensing Meets Computer Vision  
+  https://rscvworkshop.github.io/
+
+- **GeoVision (WACV Workshop)** — Geospatial Vision and Learning  
+  https://geovision-workshop.github.io/
+
+- **EarthVision (WACV Workshop)** — Vision for Earth Observation  
+  https://earthvision.work/
+
+- **Tackling Climate Change with ML (NeurIPS Workshop)** — Machine Learning for Climate and Earth Systems  
+  https://www.climatechange.ai/
+
+- **AI for Earth Sciences (ICLR Workshop)** — Representation Learning for Earth and Environmental Data  
+  https://ai4earthscience.github.io/
