@@ -51,7 +51,10 @@ covering theory, models, datasets, software, and applications in geospatial inte
   https://www.isprs.org/society/congress.aspx
   
 - **GIScience** – International Conference on Geographic Information Science  
-  https://giscience.org/
+  https://giscience2025.org/
   
 - **International Cartographic Conference (ICC)** — Conference of the International Cartographic Association  
   https://icaci.org/icc/
+  
+- **EGU General Assembly** — European Geosciences Union General Assembly  
+  https://www.egu.eu/
