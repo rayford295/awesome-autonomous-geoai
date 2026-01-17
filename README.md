@@ -134,6 +134,15 @@ This list is **not exhaustive**, and **community contributions and suggestions a
 - **Computers, Environment and Urban Systems (CEUS)** — High-impact journal on urban systems, spatial modeling, and GeoAI  
   https://www.sciencedirect.com/journal/computers-environment-and-urban-systems
 
+- **ISPRS Journal of Photogrammetry and Remote Sensing (ISPRS JPRS)** — Flagship journal for photogrammetry, remote sensing, and GeoAI  
+  https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
+
+- **Remote Sensing of Environment (RSE)** — Leading journal in remote sensing science and Earth system observation  
+  https://www.sciencedirect.com/journal/remote-sensing-of-environment
+
+- **IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS)** — Flagship IEEE journal focusing on geoscience, remote sensing theory, and signal processing  
+  https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36
+
 - **International Journal of Applied Earth Observation and Geoinformation (JAG)** — Applied remote sensing and Earth observation research  
   https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation
 
@@ -149,13 +158,6 @@ This list is **not exhaustive**, and **community contributions and suggestions a
 - **Annals of GIS** — Application-oriented GIS methods and spatial analysis  
   https://www.tandfonline.com/toc/tagi20/current
   
-- **ISPRS Journal of Photogrammetry and Remote Sensing** — Flagship journal for photogrammetry, remote sensing, and GeoAI  
-  https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
-
-- **Remote Sensing of Environment (RSE)** — Leading journal in remote sensing science and Earth system observation  
-  https://www.sciencedirect.com/journal/remote-sensing-of-environment
-
-
 ## Software
 
 > Focus on **accessible introductions to computational tools** for GeoAI and AI4Science,  
