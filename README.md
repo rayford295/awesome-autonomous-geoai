@@ -32,74 +32,6 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Contributing](#contributing)
 
-## Software
-
-> Focus on **accessible introductions to computational tools** for GeoAI and AI4Science,  
-> with an emphasis on **open-source**, **reproducible**, and **research-oriented** software ecosystems.
-
----
-
-### Python
-
-- **Awesome Python** — A curated list of Python frameworks, libraries, and software  
-  https://github.com/vinta/awesome-python
-
-- **PyTorch** — Deep learning framework widely used in GeoAI and AI4Science  
-  https://pytorch.org/
-
-- **Hugging Face Transformers** — Foundation models and multimodal learning toolkit  
-  https://huggingface.co/docs/transformers
-
-- **GeoPandas** — Geospatial data structures and spatial operations in Python  
-  https://geopandas.org/
-
-- **Rasterio** — Raster data access and processing  
-  https://rasterio.readthedocs.io/
-
-- **xarray** — Labeled multi-dimensional arrays for climate and Earth system data  
-  https://docs.xarray.dev/
-
-- **scikit-learn** — Classical machine learning and data mining  
-  https://scikit-learn.org/
-
----
-
-### R
-
-- **Awesome R** — Curated resources for R programming and data science  
-  https://github.com/qinwf/awesome-R
-
-- **sf** — Simple features for vector spatial data  
-  https://r-spatial.github.io/sf/
-
-- **terra** — Modern raster data processing in R  
-  https://rspatial.org/terra/
-
-- **tidyverse** — Data science tools for structured data analysis  
-  https://www.tidyverse.org/
-
----
-
-### GIS-Integrated Tools
-
-- **ArcGIS Pro / ArcGIS API for Python** — GIS-native spatial analysis and GeoAI workflows  
-  https://developers.arcgis.com/python/
-
-- **QGIS** — Open-source desktop GIS with extensive plugin ecosystem  
-  https://www.qgis.org/
-
-- **Google Earth Engine** — Cloud-based geospatial analysis platform for Earth observation  
-  https://earthengine.google.com/
-
-- **GRASS GIS** — Advanced geospatial analysis and modeling system  
-  https://grass.osgeo.org/
-
-- **PostGIS** — Spatial database extension for PostgreSQL  
-  https://postgis.net/
-
-
-
-
 ## Conferences  
 *Relevant conferences where the geospatial, GeoAI, and AI4Science communities (or parts thereof) meet.*
 
@@ -184,6 +116,106 @@ covering theory, models, datasets, software, and applications in geospatial inte
 
 - **KDD – AI for Sciences Track (KDD 2026 Track)** — A new peer-reviewed track at KDD 2026 focusing on AI for scientific discovery, interdisciplinary AI applications (including climate, environmental science, and related data-driven research); accepted papers are included in the ACM Digital Library and indexed by Google Scholar.  
     https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/?utm_source=chatgpt.com
+
+
+## Journals
+
+*Key journals publishing high-impact research on GeoAI, remote sensing, GIScience, and AI4Science.*
+
+---
+- **Annals of the American Association of Geographers (Annals of AAG)** — Flagship journal of geography, covering GIScience, spatial theory, and methodological advances  
+  https://www.tandfonline.com/toc/raag20/current
+  
+- **International Journal of Geographical Information Science (IJGIS)** — Premier journal for GIScience theory, methods, and spatial analysis  
+  https://www.tandfonline.com/toc/tgis20/current
+
+- **Computers, Environment and Urban Systems (CEUS)** — High-impact journal on urban systems, spatial modeling, and GeoAI  
+  https://www.sciencedirect.com/journal/computers-environment-and-urban-systems
+
+- **International Journal of Applied Earth Observation and Geoinformation (JAG)** — Applied remote sensing and Earth observation research  
+  https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation
+
+- **Transactions in GIS** — GIScience methods, spatial computation, and geospatial analytics  
+  https://onlinelibrary.wiley.com/journal/14679671
+
+- **Applied Geography** — Application-oriented geographic and spatial analysis studies  
+  https://www.sciencedirect.com/journal/applied-geography
+
+- **ISPRS Journal of Photogrammetry and Remote Sensing** — Flagship journal for photogrammetry, remote sensing, and GeoAI  
+  https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
+
+- **Remote Sensing of Environment (RSE)** — Leading journal in remote sensing science and Earth system observation  
+  https://www.sciencedirect.com/journal/remote-sensing-of-environment
+
+
+## Software
+
+> Focus on **accessible introductions to computational tools** for GeoAI and AI4Science,  
+> with an emphasis on **open-source**, **reproducible**, and **research-oriented** software ecosystems.
+
+---
+
+### Python
+
+- **Awesome Python** — A curated list of Python frameworks, libraries, and software  
+  https://github.com/vinta/awesome-python
+
+- **PyTorch** — Deep learning framework widely used in GeoAI and AI4Science  
+  https://pytorch.org/
+
+- **Hugging Face Transformers** — Foundation models and multimodal learning toolkit  
+  https://huggingface.co/docs/transformers
+
+- **GeoPandas** — Geospatial data structures and spatial operations in Python  
+  https://geopandas.org/
+
+- **Rasterio** — Raster data access and processing  
+  https://rasterio.readthedocs.io/
+
+- **xarray** — Labeled multi-dimensional arrays for climate and Earth system data  
+  https://docs.xarray.dev/
+
+- **scikit-learn** — Classical machine learning and data mining  
+  https://scikit-learn.org/
+
+---
+
+### R
+
+- **Awesome R** — Curated resources for R programming and data science  
+  https://github.com/qinwf/awesome-R
+
+- **sf** — Simple features for vector spatial data  
+  https://r-spatial.github.io/sf/
+
+- **terra** — Modern raster data processing in R  
+  https://rspatial.org/terra/
+
+- **tidyverse** — Data science tools for structured data analysis  
+  https://www.tidyverse.org/
+
+---
+
+### GIS-Integrated Tools
+
+- **ArcGIS Pro / ArcGIS API for Python** — GIS-native spatial analysis and GeoAI workflows  
+  https://developers.arcgis.com/python/
+
+- **QGIS** — Open-source desktop GIS with extensive plugin ecosystem  
+  https://www.qgis.org/
+
+- **Google Earth Engine** — Cloud-based geospatial analysis platform for Earth observation  
+  https://earthengine.google.com/
+
+- **GRASS GIS** — Advanced geospatial analysis and modeling system  
+  https://grass.osgeo.org/
+
+- **PostGIS** — Spatial database extension for PostgreSQL  
+  https://postgis.net/
+
+
+
+
 
 
 
