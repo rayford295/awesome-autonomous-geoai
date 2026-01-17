@@ -34,7 +34,6 @@ covering theory, models, datasets, software, and applications in geospatial inte
 > Workshops and special sessions are included, where they play a significant role in the GeoAI and AI4Science communities.
 
 ---
-
 - **ACM SIGSPATIAL** – International Conference on Advances in Geographic Information Systems  
   https://sigspatial.acm.org/
 
@@ -62,34 +61,32 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - **CPGIS / Geoinformatics** — International Conference on Geoinformatics<br>
   https://www.cpgis.org/
   
-- **AutoCarto** — International Research Symposium on Computer-Based Cartography and GIScience  
-  https://cartogis.org/autocarto/
+- **AutoCarto** — The Cartography and Geographic Information Society (CaGIS)<br>
+  https://cartogis.org/
+
+#### Major AI Conferences (Host Venues)
+- **AAAI** — AAAI Conference on Artificial Intelligence  
+  https://aaai.org/conference/aaai/
+
+- **CVPR** — IEEE/CVF Conference on Computer Vision and Pattern Recognition  
+  https://cvpr.thecvf.com/
+
+- **ECCV** — European Conference on Computer Vision  
+  https://eccv.ecva.net/
+
+- **ICCV** — IEEE/CVF International Conference on Computer Vision  
+  https://iccv.thecvf.com/
+
+- **ICLR** — International Conference on Learning Representations  
+  https://iclr.cc/
+
+- **KDD** — ACM SIGKDD Conference on Knowledge Discovery and Data Mining  
+  https://kdd.org/
+
+- **NeurIPS** — Conference on Neural Information Processing Systems  
+  https://neurips.cc/
+
+- **WACV** — IEEE/CVF Winter Conference on Applications of Computer Vision  
+  https://wacv2025.thecvf.com/
 
 
-### Workshops (AI Conferences)
-*GeoAI-, Earth-, and Science-oriented workshops hosted at major AI conferences.*
-
-> These workshops often serve as the primary venues for GeoAI and AI4Science research within AI-focused conferences.
-
----
-
-- **EarthVision (CVPR Workshop)** — Earth Observation and Vision Workshop  
-  https://earthvision.work/
-
-- **GeoCV (CVPR Workshop)** — Computer Vision for Geospatial Applications  
-  https://geocv-workshop.github.io/
-
-- **RS-CV (CVPR Workshop)** — Remote Sensing Meets Computer Vision  
-  https://rscvworkshop.github.io/
-
-- **GeoVision (WACV Workshop)** — Geospatial Vision and Learning  
-  https://geovision-workshop.github.io/
-
-- **EarthVision (WACV Workshop)** — Vision for Earth Observation  
-  https://earthvision.work/
-
-- **Tackling Climate Change with ML (NeurIPS Workshop)** — Machine Learning for Climate and Earth Systems  
-  https://www.climatechange.ai/
-
-- **AI for Earth Sciences (ICLR Workshop)** — Representation Learning for Earth and Environmental Data  
-  https://ai4earthscience.github.io/
