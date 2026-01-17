@@ -120,7 +120,9 @@ covering theory, models, datasets, software, and applications in geospatial inte
 
 ## Journals
 
-*Key journals publishing high-impact research on GeoAI, remote sensing, GIScience, and AI4Science.*
+*Key journals publishing high-impact research on GeoAI, remote sensing, GIScience, and AI4Science.
+The following journals are ordered roughly by **overall prestige and influence** within the field.
+This list is **not exhaustive**, and **community contributions and suggestions are very welcome**.*
 
 ---
 - **Annals of the American Association of Geographers (Annals of AAG)** — Flagship journal of geography, covering GIScience, spatial theory, and methodological advances  
@@ -135,12 +137,18 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - **International Journal of Applied Earth Observation and Geoinformation (JAG)** — Applied remote sensing and Earth observation research  
   https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation
 
+- **International Journal of Digital Earth (IJDE)** — Focuses on digital earth technologies, including big earth data and AI-driven analysis.  
+  https://www.tandfonline.com/journals/tjde20
+  
 - **Transactions in GIS** — GIScience methods, spatial computation, and geospatial analytics  
   https://onlinelibrary.wiley.com/journal/14679671
 
 - **Applied Geography** — Application-oriented geographic and spatial analysis studies  
   https://www.sciencedirect.com/journal/applied-geography
 
+- **Annals of GIS** — Application-oriented GIS methods and spatial analysis  
+  https://www.tandfonline.com/toc/tagi20/current
+  
 - **ISPRS Journal of Photogrammetry and Remote Sensing** — Flagship journal for photogrammetry, remote sensing, and GeoAI  
   https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing
 
