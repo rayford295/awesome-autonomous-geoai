@@ -14,7 +14,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
 </p>
 
 > 📘 **Core Documents**
-> - **[Research Philosophy](RESEARCH PHILOSOPHY.md)** — Vision, ambition, and guiding research principles  
+> - **[Research Philosophy](RESEARCH_PHILOSOPHY.md)** — Vision, ambition, and guiding research principles
 
 ## Contents
 
