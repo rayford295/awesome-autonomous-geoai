@@ -30,6 +30,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [GIS-Integrated Tools](#gis-integrated-tools)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
+- [Funding and Grants](#funding-and-grants)
 - [Contributing](#contributing)
 
 ## Conferences  
@@ -224,8 +225,14 @@ This list is **not exhaustive**, and **community contributions and suggestions a
   https://postgis.net/
 
 
+## Funding and Grants
 
+*Funding programs, grants, and resources supporting research in GeoAI, AI4Science,
+high-performance computing, and computational geospatial sciences.*
 
+---
 
+- **NVIDIA Academic Grant Program** — GPU grants and hardware support for academic research in AI, HPC, and scientific computing  
+  https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/
 
 
