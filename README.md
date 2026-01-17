@@ -132,15 +132,24 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - **AutoCarto** — The Cartography and Geographic Information Society (CaGIS)<br>
   https://cartogis.org/
 
-#### Major AI Conferences (Host Venues)
+### Major AI Conferences (Host Venues)
 - **AAAI** — AAAI Conference on Artificial Intelligence  
   https://aaai.org/conference/aaai/
+
+- **ACL** — Annual Meeting of the Association for Computational Linguistics  
+  https://2026.aclweb.org/
+  
+- **CHI** — ACM Conference on Human Factors in Computing Systems  
+  https://chi2026.acm.org/
 
 - **CVPR** — IEEE/CVF Conference on Computer Vision and Pattern Recognition  
   https://cvpr.thecvf.com/
 
 - **ECCV** — European Conference on Computer Vision  
   https://eccv.ecva.net/
+
+- **EMNLP** — Conference on Empirical Methods in Natural Language Processing  
+  https://2025.emnlp.org/
 
 - **ICCV** — IEEE/CVF International Conference on Computer Vision  
   https://iccv.thecvf.com/
@@ -156,5 +165,15 @@ covering theory, models, datasets, software, and applications in geospatial inte
 
 - **WACV** — IEEE/CVF Winter Conference on Applications of Computer Vision  
   https://wacv2025.thecvf.com/
+
+### Workshops and Related Events (2026)
+
+- **3rd Workshop on Computer Vision for Earth Observation (CV4EO) Applications (WACV 2026 Workshop)** — Computer vision + Earth observation research.  
+  https://wacv.thecvf.com/Conferences/2026/Workshops
+
+- **The Second Workshop on Computer Vision for Geospatial Image Analysis (WACV 2026 Workshop)** — Geospatial imagery + AI.  
+  https://wacv.thecvf.com/Conferences/2026/Workshops
+
+
 
 
