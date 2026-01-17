@@ -8,9 +8,9 @@ covering theory, models, datasets, software, and applications in geospatial inte
 
 ---
 <p align="center">
-  <img src="https://github.com/AutoGeoAI4Sci/awesome-autonomous-geoai/blob/main/AutonomousGeoAI4Science_avatar_512.png" 
+  <img src="https://github.com/AutoGeoAI4Sci/awesome-autonomous-geoai/blob/main/autogeoai4science.jpg" 
        alt="Awesome Autonomous GeoAI Logo" 
-       width="680">
+       width="880">
 </p>
 
 ## Contents
