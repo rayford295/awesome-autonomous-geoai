@@ -7,6 +7,11 @@ covering theory, models, datasets, software, and applications in geospatial inte
 > Please add your resources according to the respective ordering.
 
 ---
+<p align="center">
+  <img src="https://github.com/AutoGeoAI4Sci/awesome-autonomous-geoai/blob/main/AutonomousGeoAI4Science_avatar_512.png" 
+       alt="Awesome Autonomous GeoAI Logo" 
+       width="680">
+</p>
 
 ## Contents
 
