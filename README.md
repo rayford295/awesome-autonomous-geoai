@@ -53,6 +53,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **Data-Driven Earth Observation for Disaster Management** — Edited volume focusing on data-driven and AI-enabled Earth observation for disaster monitoring, assessment, and management  
   https://www.sciencedirect.com/book/edited-volume/9780443338038/data-driven-earth-observation-for-disaster-management
 
+- **Security First: Geospatial Workflows for a Safe and Equitable World** — Edited volume emphasizing security-aware, ethical, and equity-driven geospatial workflows, integrating GIS, GeoAI, and decision-support systems for risk mitigation, public safety, and sustainable development.<br>
+  https://www.esri.com/en-us/esri-press/browse/security-first-geospatial-workflows-for-a-safe-and-equitable-world
+
 ### GIS Programming & GeoAI Tools
 
 - **Earth Engine and Geemap: Geospatial Data Science with Python** — Qiusheng Wu (2023)  
