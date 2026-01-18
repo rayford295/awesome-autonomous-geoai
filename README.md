@@ -36,6 +36,35 @@ covering theory, models, datasets, software, and applications in geospatial inte
 - [Funding and Grants](#funding-and-grants)
 - [Contributing](#contributing)
 
+## Books
+
+*Representative books and edited volumes covering GeoAI, spatial intelligence,
+Earth observation and AI-driven disaster and environmental applications.
+This list is **not exhaustive**, and community suggestions are welcome.*
+
+---
+
+- **GeoAI and Human Geography: The Dawn of a New Spatial Intelligence Era** — Edited volume on the integration of GeoAI with human geography, spatial cognition, and socio-spatial analysis  
+  https://link.springer.com/book/10.1007/978-3-031-87421-5
+
+- **Handbook of Geospatial Artificial Intelligence** — Comprehensive handbook covering theories, methods, and applications of GeoAI across GIS, remote sensing, and spatial data science  
+  https://www.taylorfrancis.com/books/edit/10.1201/9781003308423/handbook-geospatial-artificial-intelligence-song-gao-yingjie-hu-wenwen-li
+
+- **Data-Driven Earth Observation for Disaster Management** — Edited volume focusing on data-driven and AI-enabled Earth observation for disaster monitoring, assessment, and management  
+  https://www.sciencedirect.com/book/edited-volume/9780443338038/data-driven-earth-observation-for-disaster-management
+
+### GIS Programming & GeoAI Tools
+
+- **Earth Engine and Geemap: Geospatial Data Science with Python** — Qiusheng Wu (2023)  
+  A comprehensive and practical guide to cloud-based geospatial analysis using
+  Google Earth Engine and Python, with a strong focus on reproducible GeoAI workflows.  
+  https://book.geemap.org
+
+- **Introduction to GIS Programming**  — Qiusheng Wu (2025)  
+  Introductory textbook on GIS programming concepts, focusing on spatial data
+  processing, automation, and algorithmic thinking for geospatial applications.<br>
+  https://geog-312.gishub.org/index.html
+
 ## Conferences  
 *Relevant conferences where the geospatial, GeoAI, and AI4Science communities (or parts thereof) meet.*
 
