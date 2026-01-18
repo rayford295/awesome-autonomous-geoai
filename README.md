@@ -267,4 +267,96 @@ high-performance computing, and computational geospatial sciences.*
 - **NVIDIA Academic Grant Program** — GPU grants and hardware support for academic research in AI, HPC, and scientific computing  
   https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/
 
+## Contributing
 
+Thank you for your interest in contributing to **Awesome Autonomous GeoAI**!  
+This repository is intended to serve as a community-driven hub of high-quality resources for researchers, practitioners, and students working at the intersection of **geospatial intelligence, GeoAI, remote sensing, and AI4Science**.
+
+Your contributions — whether through suggestions, improvements, or additions — are welcome and appreciated.
+
+---
+
+### 👋 About the Curator
+
+This project is initiated and maintained by **Rayford (rayford295)**, an academic and researcher passionate about advancing autonomous spatial intelligence and AI-driven geoscience.
+
+You can learn more about the curator’s research, teaching, and community contributions at:
+
+👉 https://rayford295.github.io/
+
+The site reflects a broader commitment to **open science**, **spatial thinking**, and **interdisciplinary research**, all of which inform the organization and curation of this repository.
+
+---
+
+### 💡 How to Contribute
+
+There are many ways to contribute to this repository:
+
+#### 🛠 Suggest Additions
+
+If you know of a relevant resource (conference, journal, workshop, book, software, dataset, tutorial, etc.) that is missing from the list:
+
+1. Fork the repository
+2. Add your item in the appropriate section of the README
+3. Include a **brief description** and a valid URL
+4. Submit a pull request
+
+Make sure your additions are **high-quality**, **widely accessible**, and **relevant** to the core themes of this repository.
+
+---
+
+#### 🧹 Improve Content
+
+You’re welcome to:
+
+- Improve wording or clarity
+- Fix broken links
+- Correct formatting issues
+- Reorganize sections for better navigation
+
+Just make sure that changes maintain the **quality and coherence** of the list.
+
+---
+
+#### 📝 Suggest Policy or Structure Changes
+
+We’re open to improvements in the way this repository is organized. If you think a section can be better structured or renamed (e.g., splitting a category, renaming a heading, etc.):
+
+1. Open an issue describing your proposal
+2. Discuss with other contributors
+3. Optionally submit a pull request implementing the change
+
+---
+
+### 📏 Contribution Guidelines
+
+To keep this list useful and sustainable:
+
+- **Relevance**: Only include resources that are directly relevant to GeoAI, AI4Science, spatial intelligence, or allied fields.
+- **Quality**: Avoid low-quality, obscure, or paywalled resources without accessible references.
+- **Longevity**: Prefer stable or well-established venues over transient or one-off links (e.g., “link only” course pages without long-term hosting).
+
+---
+
+### 🤝 Community and Conduct
+
+This project follows an **inclusive and respectful community ethos**. Be courteous in discussions, responsive in collaborative edits, and supportive of newcomers.
+
+If you have concerns about the conduct of participants, please raise them via an issue.
+
+---
+
+### 📌 Attribution
+
+When adding content, please include:
+
+- A **short title**
+- A **concise description**
+- A **valid and persistent URL**
+- Optionally, a **relevant citation** (author / year / publisher)
+
+This helps maintain high utility for future readers.
+
+---
+
+Thanks again for contributing — your efforts help make this repository a more valuable resource for the GeoAI and AI4Science community! 🚀
