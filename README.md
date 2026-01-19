@@ -106,6 +106,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://cartogis.org/
 
 ### Major AI Conferences (Host Venues)
+- **GeoAI Conference (2026)** — A conference dedicated to GeoAI, spatial intelligence, and AI for geographic data science; includes workshops, tutorials, and industry sessions.  
+  https://geoaiconference.org/
+  
 - **AAAI** — AAAI Conference on Artificial Intelligence  
   https://aaai.org/conference/aaai/
 
@@ -206,6 +209,30 @@ This list is **not exhaustive**, and **community contributions and suggestions a
 - **Annals of GIS** — Application-oriented GIS methods and spatial analysis  
   https://www.tandfonline.com/toc/tagi20/current
   
+## Selected Papers
+
+A curated list of representative papers related to computer vision, GeoAI, and remote sensing,
+with an emphasis on **CVPR and top-tier computer vision workshops**.
+
+---
+
+- **EarthVision @ CVPR** — *Large Scale Computer Vision for Remote Sensing Imagery*  
+  A long-running CVPR workshop focusing on computer vision and machine learning methods for Earth observation and remote sensing.  
+  📄 Proceedings: https://openaccess.thecvf.com/CVPR2025_workshops/EarthVision
+
+- **MORSE @ CVPR** — *Foundation and Large Vision Models in Remote Sensing*  
+  Workshop dedicated to foundation models, large vision models, and multimodal learning for remote sensing and geospatial analysis.  
+  📄 Proceedings: https://openaccess.thecvf.com/CVPR2025_workshops/MORSE
+
+- **CV4EO @ WACV** — *Computer Vision for Earth Observation Applications*  
+  Focuses on practical and methodological advances in applying computer vision to Earth observation data.  
+  🔗 Workshop hub: https://wacv.thecvf.com/Conferences/2026/Workshops
+
+---
+
+> 📌 *This list will be continuously updated with papers from CVPR, ICCV, ECCV, ICLR, AAAI, and KDD workshops and tracks related to GeoAI, remote sensing, and AI4Science.*
+
+
 ## Software
 
 > Focus on **accessible introductions to computational tools** for GeoAI and AI4Science,  
