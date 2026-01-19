@@ -146,16 +146,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **3rd Workshop on Computer Vision for Earth Observation (CV4EO) Applications (WACV 2026 Workshop)** — Computer vision + Earth observation research.  
   https://wacv.thecvf.com/Conferences/2026/Workshops
 
-- **The Second Workshop on Computer Vision for Geospatial Image Analysis (WACV 2026 Workshop)** — Geospatial imagery + AI.  
+- **2nd Workshop on Computer Vision for Geospatial Image Analysis (WACV 2026 Workshop)** — Geospatial imagery + AI.  
   https://wacv.thecvf.com/Conferences/2026/Workshops
 
-- **CVPR – EarthVision: Large Scale Computer Vision for Remote Sensing Imagery (CVPR Workshop)** — A long-running workshop on machine learning and computer vision for Earth observation and remote sensing; accepted workshop papers are published in the official CVPR workshop proceedings, searchable via Google Scholar.
-  https://openaccess.thecvf.com/CVPR2025_workshops/EarthVision?utm_source=chatgpt.com
-
 - **CVPR – MORSE: Foundation and Large Vision Models in Remote Sensing (CVPR 2026 Workshop)** — Focuses on foundation models, large vision models, and multimodal learning for remote sensing and Earth observation.  
-  https://openaccess.thecvf.com/CVPR2025_workshops/MORSE
-
-- **CVPR – MORSE (Official Workshop Site)** — Workshop homepage with CFP, schedule, speakers, and accepted papers.  
+  https://openaccess.thecvf.com/CVPR2025_workshops/MORSE<br>
   https://sites.google.com/view/cvpr-morse/home
 
 - **ICLR – Machine Learning for Remote Sensing (ML4RS, ICLR 2026 Workshop)** — Advances in machine learning methods for satellite imagery, Earth observation, and geospatial analysis.  
@@ -167,6 +162,10 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **KDD – AI for Sciences Track (KDD 2026 Track)** — A new peer-reviewed track at KDD 2026 focusing on AI for scientific discovery, interdisciplinary AI applications (including climate, environmental science, and related data-driven research); accepted papers are included in the ACM Digital Library and indexed by Google Scholar.  
     https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/?utm_source=chatgpt.com
 
+
+### Workshops and Related Events (2025)
+- **CVPR – EarthVision: Large Scale Computer Vision for Remote Sensing Imagery (CVPR Workshop)** — A long-running workshop on machine learning and computer vision for Earth observation and remote sensing; accepted workshop papers are published in the official CVPR workshop proceedings, searchable via Google Scholar.<br>
+  https://cvpr.thecvf.com/virtual/2025/workshop/32300
 
 ## Journals
 
