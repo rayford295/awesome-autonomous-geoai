@@ -106,9 +106,6 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://cartogis.org/
 
 ### Major AI Conferences (Host Venues)
-- **GeoAI Conference (2026)** — A conference dedicated to GeoAI, spatial intelligence, and AI for geographic data science; includes workshops, tutorials, and industry sessions.  
-  https://geoaiconference.org/
-  
 - **AAAI** — AAAI Conference on Artificial Intelligence  
   https://aaai.org/conference/aaai/
 
@@ -143,7 +140,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://wacv2025.thecvf.com/
 
 ### Workshops and Related Events (2026)
-
+- **GeoAI Conference (2026)** — A conference dedicated to GeoAI, spatial intelligence, and AI for geographic data science; includes workshops, tutorials, and industry sessions.  
+  https://geoaiconference.org/
+  
 - **3rd Workshop on Computer Vision for Earth Observation (CV4EO) Applications (WACV 2026 Workshop)** — Computer vision + Earth observation research.  
   https://wacv.thecvf.com/Conferences/2026/Workshops
 
