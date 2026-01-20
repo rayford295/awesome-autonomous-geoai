@@ -183,6 +183,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   (https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html), Texas A&M University.  
   Research focuses on GIScience, geospatial analytics, spatial decision support, and resilience-oriented applications addressing natural hazards, climate change, and long-term environmental risks.  
   https://gis-resilience.info/
+  
+- **GeoDSLab@UW-Madison** — Led by Dr. Song Gao<br>
+  (https://geography.wisc.edu/staff/gao-song/), University of Wisconsin–Madison.  
+  Research focuses on GIScience, GeoAI, geospatial data science, human mobility, social sensing, spatial networks, and urban informatics, with strong emphasis on large-scale spatial data analytics, multimodal data integration, and AI-driven understanding of human–environment systems.  
+  https://geography.wisc.edu/geods/research
 
 - **GeoAI Lab@UB** — Led by Dr. Yingjie Hu<br>
   (https://www.acsu.buffalo.edu/~yhu42/), University at Buffalo, The State University of New York.  
