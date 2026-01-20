@@ -170,19 +170,30 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 ## Research Groups
 
 *Representative research groups advancing GeoAI, GIScience, spatial intelligence,
-and AI-driven Earth and environmental sciences.
+and AI-driven Earth and environmental sciences. It should be strongly emphasized that these research groups are not listed in any particular order; they are all excellent.
 This list is **not exhaustive**, and community suggestions are welcome.*
 
 ---
 
-- **Geospatial Exploration and Resolution (GEAR) Lab** — A research group led by Lei Zou at Texas A&M University, focusing on GeoAI, GIScience, spatial data science, and geospatial modeling with applications in disaster resilience, climate change, environmental health, and public health  
-  https://geog.tamu.edu/research/gear-lab/
+- **Geospatial Exploration and Resolution (GEAR) Lab** — Led by Dr. Lei Zou (https://artsci.tamu.edu/geography/contact/profiles/lei-zou.html), Texas A&M University.  
+  Research focuses on GeoAI, GIScience, spatial data science, and geospatial modeling, with applications in disaster resilience, climate change, environmental health, and public health.  
+  https://www.geoearlab.com/
 
-- **GeoAI Lab** — A GeoAI-focused research group led by Yingjie Hu at the University at Buffalo (SUNY), 
+- **GIScience for Resilience (GIResilience) Research Group** — Led by Dr. Heng Cai (https://artsci.tamu.edu/geography/contact/profiles/heng-cai.html), Texas A&M University.  
+  Research focuses on GIScience, geospatial analytics, spatial decision support, and resilience-oriented applications addressing natural hazards, climate change, and long-term environmental risks.  
+  https://gis-resilience.info/
+
+- **GeoAI Lab@UB** — Led by Dr. Yingjie Hu (https://www.acsu.buffalo.edu/~yhu42/), University at Buffalo, The State University of New York.  
+  Research focuses on GeoAI, geospatial data science, artificial intelligence for disaster management, Earth observation, remote sensing, and large-scale spatial analytics.  
   https://geoai.geog.buffalo.edu/
 
+- **Spatially Explicit Artificial Intelligence (SEAI) Lab** — Led by Dr. Gengchen Mai (https://gengchenmai.github.io/), University of Texas at Austin.  
+  Research focuses on spatially explicit machine learning, GeoAI, GIScience, geographic question answering, spatial knowledge representation, and AI models that leverage spatial inductive bias for geospatial reasoning.  
+  https://sites.utexas.edu/seai/
 
-
+- **Geospatial Responsible AI for Nature–Human Dynamics (GRIND) Lab** — Led by Dr. Bing Zhou (https://geography.utk.edu/people/instructional-faculty/bing-zhou/), University of Tennessee, Knoxville.  
+  Research focuses on GIScience, GeoAI, responsible geospatial AI, spatial computing, and data-driven analysis of coupled nature–human systems, with applications in natural disasters, climate resilience, environmental health, and social vulnerability.  
+  https://spgbarrett.wixsite.com/bingzhou
 
 
 ## Journals
