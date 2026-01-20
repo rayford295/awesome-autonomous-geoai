@@ -167,6 +167,24 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **CVPR – EarthVision: Large Scale Computer Vision for Remote Sensing Imagery (CVPR Workshop)** — A long-running workshop on machine learning and computer vision for Earth observation and remote sensing; accepted workshop papers are published in the official CVPR workshop proceedings, searchable via Google Scholar.<br>
   https://cvpr.thecvf.com/virtual/2025/workshop/32300
 
+## Research Groups
+
+*Representative research groups advancing GeoAI, GIScience, spatial intelligence,
+and AI-driven Earth and environmental sciences.
+This list is **not exhaustive**, and community suggestions are welcome.*
+
+---
+
+- **Geospatial Exploration and Resolution (GEAR) Lab** — A research group led by Lei Zou at Texas A&M University, focusing on GeoAI, GIScience, spatial data science, and geospatial modeling with applications in disaster resilience, climate change, environmental health, and public health  
+  https://geog.tamu.edu/research/gear-lab/
+
+- **GeoAI Lab** — A GeoAI-focused research group led by Yingjie Hu at the University at Buffalo (SUNY), 
+  https://geoai.geog.buffalo.edu/
+
+
+
+
+
 ## Journals
 
 *Key journals publishing high-impact research on GeoAI, remote sensing, GIScience, and AI4Science.
