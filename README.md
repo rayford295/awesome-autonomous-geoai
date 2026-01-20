@@ -150,7 +150,6 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://wacv.thecvf.com/Conferences/2026/Workshops
 
 - **CVPR – MORSE: Foundation and Large Vision Models in Remote Sensing (CVPR 2026 Workshop)** — Focuses on foundation models, large vision models, and multimodal learning for remote sensing and Earth observation.  
-  https://openaccess.thecvf.com/CVPR2025_workshops/MORSE<br>
   https://sites.google.com/view/cvpr-morse/home
 
 - **ICLR – Machine Learning for Remote Sensing (ML4RS, ICLR 2026 Workshop)** — Advances in machine learning methods for satellite imagery, Earth observation, and geospatial analysis.  
