@@ -27,4 +27,8 @@ What follows is both a map of ideas and an invitation:
 to read carefully, to think spatially,
 and to explore how autonomous intelligence can deepen our understanding of the Earth and its complex systems.
 
-01.22.26 用发展的眼光看问题，这是一份终身职业，一份与你的一切不能分割的工作，有意义的失败远远比无意义的成果的有价值。狠狠地操练自己，你越强，找到你的观众越多。而不是你能讨好的人越多，你的观众越多。炸成是副产品，正如名利也是副产品。人是目的，不是手段。--李诞脱口秀工作手册。
+用发展的眼光看问题，这是一份终身职业，一份与你的一切不能分割的工作，有意义的失败远远比无意义的成果的有价值。狠狠地操练自己，你越强，找到你的观众越多。而不是你能讨好的人越多，你的观众越多。炸场是副产品，正如名利也是副产品。人是目的，不是手段。--《李诞脱口秀工作手册》
+
+好好活就是做有意义的事，做有意义的事，就是好好活。
+早熟的人吧，通常都晚熟。骄傲的人又很性急。
+想要和得到，中间还有两个字，那就是要做到，你只有做到，才能得到。--《士兵突击》
