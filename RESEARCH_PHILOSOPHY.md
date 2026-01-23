@@ -26,3 +26,5 @@ and continuously refined through **reading, learning, and critical reflection**.
 What follows is both a map of ideas and an invitation:
 to read carefully, to think spatially,
 and to explore how autonomous intelligence can deepen our understanding of the Earth and its complex systems.
+
+01.22.26 用发展的眼光看问题，这是一份终身职业，一份与你的一切不能分割的工作，有意义的失败远远比无意义的成果的有价值。狠狠地操练自己，你越强，找到你的观众越多。而不是你能讨好的人越多，你的观众越多。炸成是副产品，正如名利也是副产品。人是目的，不是手段。--李诞脱口秀工作手册。
