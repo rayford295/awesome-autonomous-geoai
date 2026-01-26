@@ -31,6 +31,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Python](#python)
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
+- [Intership](#intership)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Funding and Grants](#funding-and-grants)
@@ -334,6 +335,9 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 
 - **PostGIS** — Spatial database extension for PostgreSQL  
   https://postgis.net/
+
+
+## Intership
 
 
 ## Funding and Grants
