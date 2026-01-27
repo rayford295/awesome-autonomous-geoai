@@ -359,6 +359,28 @@ These internships typically emphasize:
 
 > **Note:** Applicants should distinguish research- and AI-focused internships from general GIS or cartography roles, which are more application-oriented and less aligned with research-driven GeoAI trajectories.
 
+### **Niantic Spatial**  
+*Focus:* Spatial Intelligence · GeoAI · Visual Localization · Street-View Intelligence  
+
+Niantic Spatial offers highly competitive internship opportunities for graduate students and PhD researchers interested in **spatial intelligence and geospatial AI**. Building on large-scale visual data and mapping technologies, Niantic Spatial focuses on advancing **visual localization, 3D spatial understanding, and real-world geographic reasoning**, making it particularly relevant for research at the intersection of computer vision, mapping, and GeoAI.
+
+**Relevant internship tracks include:**
+- Spatial AI Intern
+- Computer Vision Intern (Geospatial / Localization)
+- Research Intern (Spatial Intelligence)
+
+These internships typically emphasize:
+- Visual localization and place recognition using street-view and ground-level imagery
+- Spatial representation learning and multimodal (vision–geometry–map) modeling
+- Integration of computer vision and geospatial reasoning for real-world spatial intelligence tasks
+- Research-driven development with potential for long-term collaboration and publications
+
+*Location:* San Francisco Bay Area (Hybrid / Onsite depending on team)  
+*International students:* CPT / J-1 supported; no security clearance required  
+*Website:* https://www.nianticspatial.com/careers
+
+> **Note:** Niantic Spatial internships are research- and algorithm-focused and should be distinguished from general software engineering roles, as they emphasize spatial perception, localization, and GeoAI methodologies.
+
 
 ## Funding and Grants
 
