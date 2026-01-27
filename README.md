@@ -31,6 +31,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Python](#python)
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
+- [Intership](#intership)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Funding and Grants](#funding-and-grants)
@@ -334,6 +335,29 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 
 - **PostGIS** — Spatial database extension for PostgreSQL  
   https://postgis.net/
+
+
+## Intership
+### **Esri (Environmental Systems Research Institute)**  
+*Focus:* GeoAI · Spatial Data Science · GIScience · AI-Integrated GIS  
+
+Esri provides selective internship opportunities suitable for graduate students and PhD researchers working at the intersection of **geographic information science (GIScience)** and **artificial intelligence**. In addition to traditional GIS roles, Esri maintains dedicated **research- and GeoAI-oriented teams** that focus on spatial machine learning, deep learning for geospatial data, and the integration of AI models into GIS platforms.
+
+**Relevant internship tracks include:**
+- Research Intern (GeoAI / Spatial Data Science)
+- AI / Machine Learning Intern (Geospatial focus)
+- Spatial Data Science Intern
+
+These internships typically emphasize:
+- Spatial representation learning and geospatial machine learning
+- Integration of deep learning models with GIS workflows (e.g., ArcGIS, spatial databases)
+- Applied research with potential pathways to publications or long-term research collaboration
+
+*Location:* Redlands, CA  
+*International students:* CPT / J-1 supported for research-oriented roles  
+*Website:* https://www.esri.com/careers
+
+> **Note:** Applicants should distinguish research- and AI-focused internships from general GIS or cartography roles, which are more application-oriented and less aligned with research-driven GeoAI trajectories.
 
 
 ## Funding and Grants
