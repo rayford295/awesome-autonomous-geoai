@@ -202,7 +202,7 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://sites.utexas.edu/seai/
 
 - **Geoinformation and Big Data Research Laboratory (GIBD)** — Led by Dr. Zhenlong Li<br>
-  (https://sites.psu.edu/giscience/), Pennsylvania State University.  
+  (https://www.geog.psu.edu/directory/zhenlong-li), Pennsylvania State University.  
   Research focuses on GIScience, GeoAI, geospatial big data analytics, spatial computing, and autonomous GIS, with applications in natural hazards, public health, population mobility, environmental and climate change, and data-driven spatial decision-making.  
   https://sites.psu.edu/giscience/
 
