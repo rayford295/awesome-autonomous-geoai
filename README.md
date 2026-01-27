@@ -381,6 +381,30 @@ These internships typically emphasize:
 
 > **Note:** Niantic Spatial internships are research- and algorithm-focused and should be distinguished from general software engineering roles, as they emphasize spatial perception, localization, and GeoAI methodologies.
 
+### **Texas A&M Institute for a Disaster Resilient Texas (IDRT)**  
+*Focus:* Disaster Resilience · GeoAI · Hazard Analytics · Decision Support Systems  
+
+The Texas A&M Institute for a Disaster Resilient Texas (IDRT) is a multidisciplinary research institute dedicated to advancing **disaster resilience, hazard analytics, and decision-support systems** across Texas and beyond. IDRT serves as a bridge between **academic research, geospatial intelligence, and real-world disaster response and policy applications**, making it highly relevant for PhD researchers working on GeoAI and disaster intelligence.
+
+Rather than offering standardized corporate-style internships, IDRT primarily supports **research-based engagement opportunities**, including graduate research assistance, summer research participation, and project-based collaboration aligned with ongoing institute initiatives.
+
+**Relevant research engagement tracks include:**
+- Research Intern / Research Assistant (Disaster Resilience & GeoAI)
+- Graduate Researcher (Hazard Analytics & Spatial Intelligence)
+- Summer Research Fellow (Disaster Intelligence Systems)
+
+These research engagements typically emphasize:
+- Geospatial and spatiotemporal analytics for disaster risk and resilience assessment
+- Integration of GeoAI, machine learning, and spatial data infrastructures
+- Development of decision-support tools for emergency management and policy planning
+- Translational research connecting academic methods with operational disaster systems
+
+*Location:* Texas A&M University System (Texas-based; hybrid depending on project)  
+*International students:* CPT supported for research-based roles; no security clearance required  
+*Website:* https://idrt.tamug.edu/
+
+> **Note:** IDRT opportunities are research-oriented and project-driven rather than traditional corporate internships. Engagement is typically established through direct contact with project leads or institute-affiliated faculty and is well-suited for PhD researchers pursuing GeoAI- and disaster-focused research trajectories.
+
 
 ## Funding and Grants
 
