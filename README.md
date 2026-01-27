@@ -201,20 +201,37 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on spatially explicit machine learning, GeoAI, GIScience, geographic question answering, spatial knowledge representation, and AI models that leverage spatial inductive bias for geospatial reasoning.  
   https://sites.utexas.edu/seai/
 
+- **Geoinformation and Big Data Research Laboratory (GIBD)** — Led by Dr. Zhenlong Li<br>
+  (https://sites.psu.edu/giscience/), Pennsylvania State University.  
+  Research focuses on GIScience, GeoAI, geospatial big data analytics, spatial computing, and autonomous GIS, with applications in natural hazards, public health, population mobility, environmental and climate change, and data-driven spatial decision-making.  
+  https://sites.psu.edu/giscience/
+
 - **Geospatial Responsible AI for Nature–Human Dynamics (GRIND) Lab** — Led by Dr. Bing Zhou<br>
   (https://geography.utk.edu/people/instructional-faculty/bing-zhou/), University of Tennessee, Knoxville.  
   Research focuses on GIScience, GeoAI, responsible geospatial AI, spatial computing, and data-driven analysis of coupled nature–human systems, with applications in natural disasters, climate resilience, environmental health, and social vulnerability.  
   https://spgbarrett.wixsite.com/bingzhou
+
+- **Geospatial Intelligent Sensing and Mapping (GISense) Lab** — Led by Dr. Yuhao Kang<br>
+  (https://liberalarts.utexas.edu/geography/faculty/yk9999), University of Texas at Austin.  
+  Research focuses on GIScience, GeoAI, human-centered GeoAI, geospatial data science, social sensing, cartography, and spatial analysis, with applications in human mobility, urban planning, environmental psychology, maternal health, and responsible geospatial artificial intelligence.  
+  https://sites.utexas.edu/gisense/
 
 - **Spatial Data Lab (SDL)** — Led by Dr. Shuming Bao<br>
   (https://sdl.gis.harvard.edu/people/), Harvard University Spatial Data Lab@Center for Geographic Analysis, IQSS.  
   Research focuses on spatial data science, GIScience, GeoAI, spatiotemporal big data analytics, human mobility and migration, computational social science, and human-centered GeoAI, with applications in urban analytics, public health, digital health geography, and human–environment interactions.  
   https://sdl.gis.harvard.edu/
 
-- **Spatial Data Lab (SDL)** — Led by Dr. Siqin Wang<br>
+- **Siqin Wang Research Group** — Led by Dr. Siqin Wang<br>
   (https://dornsife.usc.edu/spatial/profile/siqin-sisi-wang/), Spatial Science Institute,  University of Southern California.  
   Dr. Wang’s research interests are in GIScience, spatiotemporal big data analytics, computational social science, digital health geography, human-centered GeoAI, human mobility and migration, smart cities and human-climate interactions and she has published extensively in these areas. <br>
   https://sdl.gis.harvard.edu/sdl-research-affiliates
+
+- **Xiao Huang Research Group** — Led by Dr. Xiao Huang<br>
+  (https://www.xiaohuang116.com/), Emory University.  
+  Research focuses on GeoAI, GIScience, big data analytics, disaster mapping and mitigation, urban informatics, vulnerability and social inequity, and human–environment interactions, with applications in disaster resilience, public health, and climate risk assessment.  
+  https://www.xiaohuang116.com/
+
+
 
 ## Journals
 
