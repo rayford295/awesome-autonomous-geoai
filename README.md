@@ -227,10 +227,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://sdl.gis.harvard.edu/sdl-research-affiliates
 
 - **Xiao Huang Research Group** — Led by Dr. Xiao Huang<br>
-  (https://www.xiaohuang116.com/), Emory University.  
+  (https://winshipcancer.emory.edu/profiles/huang-xiao.php), Emory University.  
   Research focuses on GeoAI, GIScience, big data analytics, disaster mapping and mitigation, urban informatics, vulnerability and social inequity, and human–environment interactions, with applications in disaster resilience, public health, and climate risk assessment.  
   https://www.xiaohuang116.com/
-
 
 
 ## Journals
