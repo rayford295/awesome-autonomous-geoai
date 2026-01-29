@@ -507,6 +507,9 @@ These research engagements typically emphasize:
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
   https://mapsplatform.google.com/ai/
 
+- **GeoGuess Lite** — A lightweight, subscription-free online geography guessing game inspired by GeoGuessr, letting users explore random locations and test their spatial/geographic intuition without limits.  
+  https://geoguesslite.com/
+
 
 ## Relevant Awesome Lists
 
