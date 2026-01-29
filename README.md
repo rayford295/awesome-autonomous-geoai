@@ -529,6 +529,33 @@ These internships typically emphasize:
 
 > **Note:** Arup internships are applied-research and analytics-driven, positioned between academic research and professional practice. They are well suited for PhD researchers aiming to translate GeoAI, spatial risk modeling, and climate analytics into **operational resilience planning for cities and infrastructure**, rather than purely academic or software-only roles.
 
+### **CARTO (Agentic GIS Platform)**  
+*Focus:* Cloud-Native GIS · Spatial Analytics · GeoAI · Agentic GIS  
+
+CARTO is a leading **cloud-native spatial analytics platform** focused on enabling scalable geospatial analysis, location intelligence, and AI-integrated GIS workflows. With its recent emphasis on **Agentic GIS**, CARTO is exploring how **AI agents and structured geospatial commands** can operate autonomously within modern GIS ecosystems.
+
+CARTO offers internship and early-career opportunities suitable for graduate students and PhD researchers working at the intersection of **GeoAI, spatial data science, and cloud-native geospatial systems**.
+
+**Relevant internship and early-career tracks include:**
+- Spatial Data Science Intern  
+- GeoAI / Machine Learning Intern  
+- Geospatial Software / Platform Intern  
+- Research Intern (Spatial Analytics & AI Systems)
+
+These roles typically emphasize:
+- Cloud-native spatial analytics and large-scale geospatial data processing
+- Integration of **AI / machine learning models** into GIS workflows
+- Development of **automation and agent-based geospatial tools** (e.g., CLI, APIs)
+- Spatial SQL, Python-based geospatial analytics, and scalable data pipelines
+- Bridging geospatial reasoning with AI agents for autonomous spatial reasoning
+- Applied research and platform-oriented development with real-world use cases
+
+*Location:* New York, NY (global / remote-friendly teams depending on role)  
+*International students:* CPT / J-1 commonly supported for internship roles; no security clearance required  
+*Website:* https://carto.com/careers  
+
+> **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
+
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
