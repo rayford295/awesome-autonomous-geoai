@@ -502,6 +502,18 @@ These research engagements typically emphasize:
 
 > **Note:** IDRT opportunities are research-oriented and project-driven rather than traditional corporate internships. Engagement is typically established through direct contact with project leads or institute-affiliated faculty and is well-suited for PhD researchers pursuing GeoAI- and disaster-focused research trajectories.
 
+## Relevant Awesome Lists
+
+- **Awesome** — Curated list of high-quality “awesome lists” across software, AI, data science, systems, and interdisciplinary resources.<br>
+  https://github.com/sindresorhus/awesome#readme
+
+- **Awesome GIS** — Curated list of GIS resources, software, libraries, and learning materials.<br>
+  https://github.com/sshuair/awesome-gis
+
+- **Awesome Computational Social Science** — Curated resources on computational social science methods, tools, and datasets relevant to social behavior and large-scale data analysis.<br>
+  https://github.com/cllei12/awesome-computational-social-science
+
+## Miscellaneous
 
 ## Funding and Grants
 
