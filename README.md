@@ -167,6 +167,75 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **CVPR – EarthVision: Large Scale Computer Vision for Remote Sensing Imagery (CVPR Workshop)** — A long-running workshop on machine learning and computer vision for Earth observation and remote sensing; accepted workshop papers are published in the official CVPR workshop proceedings, searchable via Google Scholar.<br>
   https://cvpr.thecvf.com/virtual/2025/workshop/32300
 
+
+## Education
+
+*Representative educational resources supporting GeoAI, spatial intelligence, Earth observation, and AI-driven geospatial science.  
+This section covers online courses, recorded lectures, and formal university programs.  
+The list is **not exhaustive**, and community contributions are welcome.*
+
+---
+
+### Online Courses and Materials
+
+- **Geospatial Data Science Specialization (UC Davis, Coursera)** — Core GIScience concepts, spatial analysis, and geospatial data workflows using Python and modern GIS tools.<br>
+  https://www.coursera.org/specializations/gis
+
+- **AI for Earth (Microsoft)** — Practical AI and machine learning resources for environmental monitoring, sustainability, and Earth system applications.<br>
+  https://www.microsoft.com/en-us/ai/ai-for-earth
+
+- **Google Earth Engine Tutorials & Courses** — Large-scale cloud-based Earth observation analysis and geospatial modeling.<br>
+  https://developers.google.com/earth-engine
+
+- **Spatial Data Science Libraries (PySAL & GeoPandas)** — Open-source learning materials for spatial statistics and geospatial data science in Python.<br>
+  https://pysal.org/<br>
+  https://geopandas.org/
+
+- **Reinforcement Learning (David Silver, UCL)** — Foundational course on reinforcement learning and sequential decision-making, relevant to autonomous GeoAI systems.<br>
+  https://www.davidsilver.uk/teaching/
+
+---
+
+### Videos and Lectures
+
+- **AAG Annual Meeting — Keynotes and Recorded Sessions** — Talks on GIScience, GeoAI, spatial theory, and ethics in geography.<br>
+  https://www.aag.org/events/aag-annual-meeting/
+
+- **NASA Earthdata Learn (Tutorials & Webinars)** — Training materials on Earth observation datasets, platforms, and AI-enabled analysis.<br>
+  https://www.earthdata.nasa.gov/learn
+
+- **ESA Φ-Week (Future EO Week)** — Workshops and talks on AI for Earth observation and operational EO systems.<br>
+  https://phiweek.esa.int/
+
+- **Penn State GIScience Seminar Series** — Seminar series covering GIScience, spatial computing, and GeoAI research.<br>
+  https://giscience.psu.edu/news-and-events/seminar-series/
+
+- **Esri Webinars** — Applied GIS, spatial analytics, and GeoAI workflows in practice.<br>
+  https://www.esri.com/en-us/about/events/webinars
+
+---
+
+### University Course Programs
+
+- **Penn State — GIScience (Research + Education)** — Core GIScience foundations and research training.<br>
+  https://giscience.psu.edu/
+
+- **USC Spatial Sciences Institute (SSI)** — Spatial data science, GIS, and applied spatial analytics programs.<br>
+  https://spatial.usc.edu/
+
+- **ETH Zürich — Remote Sensing** — Remote sensing and Earth observation training.<br>
+  https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/remote-sensing.html
+
+- **Stanford Earth — Education & Research** — Earth system science education with strong AI-facing ecosystem.<br>
+  https://earth.stanford.edu/
+
+- **NYU CUSP — Urban Science / Urban Informatics** — Urban analytics, sensing, and data-driven cities.<br>
+  https://cusp.nyu.edu/
+
+- **Natural Hazards Center (CU Boulder)** — Disaster research community and training resources.<br>
+  https://hazards.colorado.edu/
+
+
 ## Research Groups
 
 *Representative research groups advancing GeoAI, GIScience, spatial intelligence,
