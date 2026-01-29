@@ -502,6 +502,12 @@ These research engagements typically emphasize:
 
 > **Note:** IDRT opportunities are research-oriented and project-driven rather than traditional corporate internships. Engagement is typically established through direct contact with project leads or institute-affiliated faculty and is well-suited for PhD researchers pursuing GeoAI- and disaster-focused research trajectories.
 
+
+## Miscellaneous
+- **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
+  https://mapsplatform.google.com/ai/
+
+
 ## Relevant Awesome Lists
 
 - **Awesome** — Curated list of high-quality “awesome lists” across software, AI, data science, systems, and interdisciplinary resources.<br>
@@ -513,7 +519,6 @@ These research engagements typically emphasize:
 - **Awesome Computational Social Science** — Curated resources on computational social science methods, tools, and datasets relevant to social behavior and large-scale data analysis.<br>
   https://github.com/cllei12/awesome-computational-social-science
 
-## Miscellaneous
 
 ## Funding and Grants
 
