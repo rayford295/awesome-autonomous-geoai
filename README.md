@@ -195,27 +195,30 @@ The list is **not exhaustive**, and community contributions are welcome.*
   https://www.davidsilver.uk/teaching/
 
 ---
-
-### Videos and Lectures (waiting to be revised)
+### Videos and Lectures
 
 - **AAG Annual Meeting — Keynotes and Recorded Sessions** — Talks on GIScience, GeoAI, spatial theory, and ethics in geography.<br>
-  https://www.aag.org/events/aag-annual-meeting/
+  https://www.aag.org/all-events/
 
 - **NASA Earthdata Learn (Tutorials & Webinars)** — Training materials on Earth observation datasets, platforms, and AI-enabled analysis.<br>
   https://www.earthdata.nasa.gov/learn
 
-- **ESA Φ-Week (Future EO Week)** — Workshops and talks on AI for Earth observation and operational EO systems.<br>
+- **ESA Φ-Week (Future EO Week)** — Workshops and talks on AI for Earth observation, EO open science, and operational EO systems.<br>
   https://phiweek.esa.int/
 
-- **Penn State GIScience Seminar Series** — Seminar series covering GIScience, spatial computing, and GeoAI research.<br>
-  https://giscience.psu.edu/news-and-events/seminar-series/
+- **Penn State Geography — Coffee Hour Lecture Series** — Public seminar series covering GIScience, spatial computing, and GeoAI research.<br>
+  https://www.geog.psu.edu/calendar/coffee-hour-lecture-series
 
-- **Esri Webinars** — Applied GIS, spatial analytics, and GeoAI workflows in practice.<br>
-  https://www.esri.com/en-us/about/events/webinars
+- **Esri Webinars & Developer Events** — Applied GIS, spatial analytics, and GeoAI workflows in practice.<br>
+  https://www.esri.com/en-us/arcgis/products/develop-with-arcgis/events
+
+- **GeoAI Made Easy — Python Package Tutorial (YouTube, Open Geospatial Solutions)** — Beginner-friendly, step-by-step GeoAI Python tutorials for satellite imagery analysis and object detection.<br>
+  https://www.youtube.com/watch?v=VIl29Rca6zE&list=PLAxJ4-o7ZoPcvENqwaPa_QwbbkZ5sctZE
+
 
 ---
 
-### University Course Programs  (waiting to be revised)
+### University Course Programs  
 
 - **Penn State — GIScience (Research + Education)** — Core GIScience foundations and research training.<br>
   https://giscience.psu.edu/
@@ -224,13 +227,13 @@ The list is **not exhaustive**, and community contributions are welcome.*
   https://spatial.usc.edu/
 
 - **ETH Zürich — Remote Sensing** — Remote sensing and Earth observation training.<br>
-  https://ethz.ch/en/studies/master/degree-programmes/engineering-sciences/remote-sensing.html
+  https://eo.ifu.ethz.ch/
 
 - **Stanford Earth — Education & Research** — Earth system science education with strong AI-facing ecosystem.<br>
   https://earth.stanford.edu/
 
 - **NYU CUSP — Urban Science / Urban Informatics** — Urban analytics, sensing, and data-driven cities.<br>
-  https://cusp.nyu.edu/
+  https://engineering.nyu.edu/research/centers/cusp
 
 - **Natural Hazards Center (CU Boulder)** — Disaster research community and training resources.<br>
   https://hazards.colorado.edu/
