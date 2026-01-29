@@ -196,7 +196,7 @@ The list is **not exhaustive**, and community contributions are welcome.*
 
 ---
 
-### Videos and Lectures
+### Videos and Lectures (waiting to be revised)
 
 - **AAG Annual Meeting — Keynotes and Recorded Sessions** — Talks on GIScience, GeoAI, spatial theory, and ethics in geography.<br>
   https://www.aag.org/events/aag-annual-meeting/
@@ -215,7 +215,7 @@ The list is **not exhaustive**, and community contributions are welcome.*
 
 ---
 
-### University Course Programs
+### University Course Programs  (waiting to be revised)
 
 - **Penn State — GIScience (Research + Education)** — Core GIScience foundations and research training.<br>
   https://giscience.psu.edu/
