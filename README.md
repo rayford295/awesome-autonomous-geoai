@@ -502,6 +502,33 @@ These research engagements typically emphasize:
 
 > **Note:** IDRT opportunities are research-oriented and project-driven rather than traditional corporate internships. Engagement is typically established through direct contact with project leads or institute-affiliated faculty and is well-suited for PhD researchers pursuing GeoAI- and disaster-focused research trajectories.
 
+### **Arup (Risk & Resilience Engineering)**  
+*Focus:* Multi-Hazard Risk · Climate Resilience · Infrastructure Systems · Quantitative Risk Modeling  
+
+Arup is a global engineering and risk consultancy with strong expertise in **multi-hazard risk assessment, climate adaptation, and infrastructure resilience**. Its Risk & Resilience teams operate at the intersection of **engineering, climate science, probabilistic risk modeling, and decision support**, making Arup particularly relevant for graduate students and PhD researchers interested in applying **GeoAI, spatial analytics, and simulation-based methods** to real-world infrastructure and urban systems.
+
+Arup offers structured **Risk & Resilience Engineering Internship** opportunities suitable for graduate students and PhD researchers with backgrounds in engineering, climate science, GIScience, or spatial data science.
+
+**Relevant internship tracks include:**
+- Risk & Resilience Engineering Intern  
+- Climate Risk / Adaptation Intern  
+- Infrastructure Risk Analysis Intern  
+
+These internships typically emphasize:
+- Qualitative and quantitative **multi-hazard risk assessment** (earthquake, flood, wind, heat, wildfire)
+- Hazard and vulnerability modeling, including **climate change–informed hazard analysis**
+- Probabilistic risk frameworks and tools (e.g., FEMA P-58, HAZUS, or similar methodologies)
+- Application of **simulation, statistics, and engineering models** for infrastructure resilience
+- Automation scripting for risk models and analytical workflows
+- GIS-enabled spatial analysis and visualization for risk communication
+- Development of **risk mitigation and adaptation strategies** using cost–benefit analysis and adaptation pathways
+
+*Location:* San Francisco, CA (and other global offices depending on team)  
+*International students:* CPT / J-1 typically supported for internship roles; no security clearance required  
+*Website:* https://www.arup.com/careers  
+
+> **Note:** Arup internships are applied-research and analytics-driven, positioned between academic research and professional practice. They are well suited for PhD researchers aiming to translate GeoAI, spatial risk modeling, and climate analytics into **operational resilience planning for cities and infrastructure**, rather than purely academic or software-only roles.
+
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
