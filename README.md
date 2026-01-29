@@ -502,6 +502,29 @@ These research engagements typically emphasize:
 
 > **Note:** IDRT opportunities are research-oriented and project-driven rather than traditional corporate internships. Engagement is typically established through direct contact with project leads or institute-affiliated faculty and is well-suited for PhD researchers pursuing GeoAI- and disaster-focused research trajectories.
 
+## Relevant Awesome Lists
+- **Awesome GeoAI** — Curated resources on Geospatial Artificial Intelligence, including papers, datasets, and tools.<br>
+  https://github.com/geospatial-ai/awesome-geoai
+
+- **Awesome GIS** — Curated list of GIS resources, software, libraries, and learning materials.<br>
+  https://github.com/sshuair/awesome-gis
+
+- **Awesome Remote Sensing** — Collection of resources for remote sensing, Earth observation, and satellite imagery analysis.<br>
+  https://github.com/awesome-remote-sensing/awesome-remote-sensing
+
+- **Awesome GeoFoundation Models** — Resources on foundation models for geospatial and Earth science applications.<br>
+  https://github.com/earthml/awesome-geospatial-foundation-models
+
+- **Awesome Vision-Language Models** — Curated list of vision–language models and multimodal learning resources.<br>
+  https://github.com/BradyFU/Awesome-Multimodal-Learning
+
+- **Awesome Disaster AI** — AI and machine learning resources for disaster response and resilience.<br>
+  https://github.com/jivoi/awesome-disaster-ai
+
+- **Awesome Urban Computing** — Resources on urban computing, smart cities, and spatial data analytics.<br>
+  https://github.com/karanchahal/awesome-urban-computing
+
+
 
 ## Funding and Grants
 
