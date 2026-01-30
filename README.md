@@ -238,6 +238,13 @@ The list is **not exhaustive**, and community contributions are welcome.*
 - **Natural Hazards Center (CU Boulder)** — Disaster research community and training resources.<br>
   https://hazards.colorado.edu/
 
+- **University Assistant (Predoctoral PhD)** — University of Vienna
+**Project:** **STRENGTH** — *Strengthening Resilience and Preparedness to Prevent and React to Emerging Socio-Natural Hazards and Risks*  
+**Host:** University of Vienna, Faculty of Earth Sciences, Geography and Astronomy  
+**Research Group:** Spatial Data Science and Geocommunication  
+**Supervisor / Contact:** Prof. Krzysztof Janowicz  
+📧 krzysztof.janowicz@univie.ac.at  
+
 
 ## Research Groups
 
