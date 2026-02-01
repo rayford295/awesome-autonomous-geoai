@@ -571,6 +571,15 @@ These roles typically emphasize:
 - **GeoGuess Lite** — A lightweight, subscription-free online geography guessing game inspired by GeoGuessr, letting users explore random locations and test their spatial/geographic intuition without limits.  
   https://geoguesslite.com/
 
+### 🎥 From Domestic PhD to Overseas PhD: How to Adapt in Research, Study, and Life?
+
+**Platform:** Bilibili (GISalon 圆桌会)  
+**Topic:** 从国内到海外博士：科研 / 学业 / 生活，我们如何适应？
+
+[![Bilibili Video](https://i0.hdslb.com/bfs/archive/cover.jpg)](https://www.bilibili.com/video/BV13KEtzZEmJ/)
+
+🔗 Watch on Bilibili:  
+https://www.bilibili.com/video/BV13KEtzZEmJ/
 
 ## Relevant Awesome Lists
 
