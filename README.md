@@ -574,10 +574,11 @@ These roles typically emphasize:
 ### 🎥 From Domestic PhD to Overseas PhD: How to Adapt in Research, Study, and Life?
 
 **Platform:** Bilibili (GISalon 圆桌会)  
-**Topic:** 从国内到海外博士：科研 / 学业 / 生活，我们如何适应 <br>
+**Topic:** 从国内到海外博士：科研 / 学业 / 生活，我们如何适应  
 
-🔗 Watch on Bilibili:  
-https://www.bilibili.com/video/BV13KEtzZEmJ/
+[![From Domestic PhD to Overseas PhD](https://raw.githubusercontent.com/rayford295/awesome-autonomous-geoai/main/figure/b%E7%AB%99%E8%A7%86%E9%A2%91%E6%88%AA%E5%9B%BE.png)](https://www.bilibili.com/video/BV13KEtzZEmJ/)
+
+▶ *Click the image to watch the full video on Bilibili.*
 
 ## Relevant Awesome Lists
 
