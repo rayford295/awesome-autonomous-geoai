@@ -295,6 +295,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on GIScience, GeoAI, human-centered GeoAI, geospatial data science, social sensing, cartography, and spatial analysis, with applications in human mobility, urban planning, environmental psychology, maternal health, and responsible geospatial artificial intelligence.  
   https://sites.utexas.edu/gisense/
 
+- **Smart Cities for Good (SCG) Lab** — Led by Dr. Jungwhan Kim<br>
+  (https://geography.vt.edu/people/junghwan-kim.html), Virginia Tech.  
+  Research focuses on human mobility, accessibility and travel behavior, environmental health, geospatial data science, and ethical issues in geospatial data and AI, with applications in smart cities, transportation planning, public health, and evidence-based urban policy.  
+  https://www.junghwankim.org/smart-cities-for-good
+
 - **Spatial Data Lab (SDL)** — Led by Dr. Shuming Bao<br>
   (https://sdl.gis.harvard.edu/people/), Harvard University Spatial Data Lab@Center for Geographic Analysis, IQSS.  
   Research focuses on spatial data science, GIScience, GeoAI, spatiotemporal big data analytics, human mobility and migration, computational social science, and human-centered GeoAI, with applications in urban analytics, public health, digital health geography, and human–environment interactions.  
