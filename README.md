@@ -296,9 +296,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://sites.utexas.edu/gisense/
 
 - **Smart Cities for Good (SCG) Lab** — Led by Dr. Jungwhan Kim<br>
-  (https://jungwhankim.org), Virginia Tech.  
+  (https://geography.vt.edu/people/junghwan-kim.html), Virginia Tech.  
   Research focuses on human mobility, accessibility and travel behavior, environmental health, geospatial data science, and ethical issues in geospatial data and AI, with applications in smart cities, transportation planning, public health, and evidence-based urban policy.  
-  https://jungwhankim.org
+  https://www.junghwankim.org/smart-cities-for-good
 
 - **Spatial Data Lab (SDL)** — Led by Dr. Shuming Bao<br>
   (https://sdl.gis.harvard.edu/people/), Harvard University Spatial Data Lab@Center for Geographic Analysis, IQSS.  
