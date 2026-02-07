@@ -49,3 +49,5 @@ and to explore how autonomous intelligence can deepen our understanding of the E
 --评论：“后人哀之而不鉴之，亦使后人而复哀后人也”《过秦论》--太阳底下并没有新鲜的事情
 
 我想让事情是它本来该有的那个样子。--龙文章--《我的团长我的团》--致敬理想主义！
+
+害怕并不代表没有勇气，真正的行动才是最重要的。一个人究竟是英雄还是懦夫，由行动决定。--《创业维艰》
