@@ -570,6 +570,31 @@ These roles typically emphasize:
 
 > **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
 
+### **EarthScope Student Career Internship Program**
+*Focus:* Earth Science Education · Geophysical Data · Computing & Data Science
+
+EarthScope is an **NSF-supported consortium** focused on advancing Earth science through open geophysical data, instrumentation, and education infrastructure. Its **Student Career Internship Program** provides paid, structured internship opportunities that bridge **Earth science, data science, and educational support**, rather than product- or industry-driven development.
+
+The **Computing and Data Science Academy Intern** track is particularly relevant for graduate students and PhD researchers with backgrounds in **GIS, remote sensing, spatial data science, or scientific computing**, and for those interested in supporting Earth science education and open science initiatives.
+
+**Relevant internship and early-career tracks include:**
+- Computing and Data Science Academy Intern
+- Cloud Software Developer Intern
+- Cloud OnRamp Intern
+
+These internships typically emphasize:
+- Development and testing of **Earth science educational and technical course materials**
+- Supporting **data- and computation-intensive learning modules**
+- Working with **geophysical and geospatial datasets** in instructional contexts
+- Quality assurance of **tutorials, workflows, and learning resources**
+- Collaboration with **scientists, educators, and technical teams**
+
+*Location:* Remote (U.S.)
+*International students:* Eligible with U.S. work authorization (e.g., CPT)
+*Website:* https://www.earthscope.org/education/student-internships/earthscope-student-career-internship-program/
+
+> **Note:** EarthScope internships are **education- and infrastructure-oriented**, making them especially **well suited** for students interested in **Earth science education, open data ecosystems, and scientific cyberinfrastructure**, rather than algorithm-centric research or commercial software roles.
+
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
