@@ -568,7 +568,7 @@ These roles typically emphasize:
 *International students:* CPT / J-1 commonly supported for internship roles; no security clearance required  
 *Website:* https://carto.com/careers  
 
-> **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
+> **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well-suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
 
 ### **EarthScope Student Career Internship Program**
 *Focus:* Earth Science Education · Geophysical Data · Computing & Data Science
@@ -595,6 +595,30 @@ These internships typically emphasize:
 
 > **Note:** EarthScope internships are **education- and infrastructure-oriented**, making them especially **well suited** for students interested in **Earth science education, open data ecosystems, and scientific cyberinfrastructure**, rather than algorithm-centric research or commercial software roles.
 
+### **LLNL ES&H Graduate Intern - Summer 2026**
+*Focus:* Environment, Safety & Health · National Security · Technical Research & Analysis
+
+Lawrence Livermore National Laboratory (LLNL) is a premier research facility dedicated to strengthening **U.S. security and global stability** through science and technology. This internship offers **Graduate Level Students** (and recent Bachelor’s/Master’s graduates) the opportunity to work within the **Environment, Safety and Health (ES&H) Directorate**, completing projects that combine **hands-on experience with technical knowledge**.
+
+**Key responsibilities and technical tracks include:**
+-   Gathering and analyzing data to develop **procedures, research reports, and calculations**
+-   Participating in **safety inspections** and operational assessments
+-   Providing **advanced technical support** to engineers and scientists
+-   Solving complex problems through **technical analysis and scientific methods**
+-   Collaborating with senior staff on **research efforts and program support**
+
+**Target disciplines:**
+-   **Engineering** (Mechanical, Chemical, Nuclear, Civil, Environmental)
+-   **Physical Sciences** (Chemistry, Physics, Materials Science)
+-   **Math / Statistics / Computer Science**
+-   **Public Health / Industrial Hygiene / Occupational Safety**
+
+*Location:* Livermore, CA (Hybrid schedule with remote flexibility available)
+*Pay Range:* $6,752 - $8,201 Monthly
+*Citizenship:* **U.S. Person required** (Citizen, LPR, or protected individual); No security clearance required initially.
+*Website:* https://www.llnl.gov/join-our-team
+
+> **Note:** This role is ideal for students looking to apply **scientific and safety concepts** in a **National Laboratory environment**. Unlike many standard industry internships, this position emphasizes **national security impact, regulatory compliance (OSHA/ANSI), and high-level technical problem solving** within a research setting.
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
