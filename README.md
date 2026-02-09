@@ -31,7 +31,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Python](#python)
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
-- [Intership](#intership)
+- [Intership and Company](#intership-and-company)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Funding and Grants](#funding-and-grants)
@@ -448,7 +448,7 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
   https://postgis.net/
 
 
-## Intership
+## Intership and Company
 ### **Esri (Environmental Systems Research Institute)**  
 *Focus:* GeoAI · Spatial Data Science · GIScience · AI-Integrated GIS  
 
@@ -595,30 +595,35 @@ These internships typically emphasize:
 
 > **Note:** EarthScope internships are **education- and infrastructure-oriented**, making them especially **well suited** for students interested in **Earth science education, open data ecosystems, and scientific cyberinfrastructure**, rather than algorithm-centric research or commercial software roles.
 
-### **LLNL ES&H Graduate Intern - Summer 2026**
-*Focus:* Environment, Safety & Health · National Security · Technical Research & Analysis
+### **Mosaic (Geospatial Imaging Leaders)** *Focus:* Mobile Mapping · 360° Reality Capture · GeoAI · Computer Vision · Digital Twins
 
-Lawrence Livermore National Laboratory (LLNL) is a premier research facility dedicated to strengthening **U.S. security and global stability** through science and technology. This internship offers **Graduate Level Students** (and recent Bachelor’s/Master’s graduates) the opportunity to work within the **Environment, Safety and Health (ES&H) Directorate**, completing projects that combine **hands-on experience with technical knowledge**.
+Mosaic is a Prague-based leader in geospatial imaging, specializing in the development of the world’s most robust and precise industrial **360° street-level camera systems**. Their technology integrates ultra-high-resolution visual data with geospatial intelligence to provide foundational insights for urban mapping, surveying, and autonomous vehicle map updates. For PhD researchers, Mosaic offers a high-impact environment to bridge the gap between **Computer Vision, reality capture, and GIScience**.
 
-**Key responsibilities and technical tracks include:**
--   Gathering and analyzing data to develop **procedures, research reports, and calculations**
--   Participating in **safety inspections** and operational assessments
--   Providing **advanced technical support** to engineers and scientists
--   Solving complex problems through **technical analysis and scientific methods**
--   Collaborating with senior staff on **research efforts and program support**
+**Relevant internship and early-career tracks include:**
 
-**Target disciplines:**
--   **Engineering** (Mechanical, Chemical, Nuclear, Civil, Environmental)
--   **Physical Sciences** (Chemistry, Physics, Materials Science)
--   **Math / Statistics / Computer Science**
--   **Public Health / Industrial Hygiene / Occupational Safety**
+* Computer Vision / AI Research Intern (Focus on automated feature extraction and 3D modeling)
+* Python Developer Intern (Geospatial Pipelines & Image Processing)
+* Geospatial Data Scientist (Focus on multi-sensor fusion and high-precision positioning)
 
-*Location:* Livermore, CA (Hybrid schedule with remote flexibility available)
-*Pay Range:* $6,752 - $8,201 Monthly
-*Citizenship:* **U.S. Person required** (Citizen, LPR, or protected individual); No security clearance required initially.
-*Website:* https://www.llnl.gov/join-our-team
+These internships typically emphasize:
 
-> **Note:** This role is ideal for students looking to apply **scientific and safety concepts** in a **National Laboratory environment**. Unlike many standard industry internships, this position emphasizes **national security impact, regulatory compliance (OSHA/ANSI), and high-level technical problem solving** within a research setting.
+* **Large-Scale Reality Capture:** Developing algorithms to process massive amounts of high-resolution data for urban mapping and surveying.
+* **Automated Feature Extraction:** Utilizing deep learning for calibration, stitching, and 3D modeling from 360° imaging data.
+* **High-Precision Mobile Mapping:** Engineering tools for sub-centimeter accuracy in street-level data collection worldwide.
+* **Advanced Spatial Reasoning:** Bridging the gap between raw megapixel data and actionable geospatial insights for digital twins.
+
+*Location:* Prague, Czech Republic
+
+*International students:* International applicants welcome; support for relevant internship visas typically available
+
+*Website:* [https://www.mosaic51.com/](https://www.mosaic51.com/)
+
+> **Note:** Mosaic internships are **hardware-software integrated** and research-driven. They are particularly well suited for students interested in **mobile mapping tools, 3D reconstruction, and GeoAI**, rather than purely theoretical or non-spatial software roles.
+
+---
+
+**Next Step:**
+Would you like me to help you draft a cover letter specifically targeting their Computer Vision or Python Developer internship roles?
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
