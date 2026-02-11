@@ -31,7 +31,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [Python](#python)
   - [R](#r)
   - [GIS-Integrated Tools](#gis-integrated-tools)
-- [Intership and Company](#intership-and-company)
+- [Internship and Company](#internship-and-company)
 - [Miscellaneous](#miscellaneous)
 - [Relevant Awesome Lists](#relevant-awesome-lists)
 - [Funding and Grants](#funding-and-grants)
@@ -299,7 +299,7 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 
 - **Smart Cities for Good (SCG) Lab** — Led by Dr. Jungwhan Kim<br>
   (https://geography.vt.edu/people/junghwan-kim.html), Virginia Tech.  
-  Research focuses on human mobility, accessibility and travel behavior, environmental health, geospatial data science, and ethical issues in geospatial data and AI, with applications in smart cities, transportation planning, public health, and evidence-based urban policy.  
+  Research focuses on human mobility, accessibility, and travel behavior, environmental health, geospatial data science, and ethical issues in geospatial data and AI, with applications in smart cities, transportation planning, public health, and evidence-based urban policy.  
   https://www.junghwankim.org/smart-cities-for-good
 
 - **Spatial Data Lab (SDL)** — Led by Dr. Shuming Bao<br>
@@ -448,7 +448,7 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
   https://postgis.net/
 
 
-## Intership and Company
+## Internship and Company
 ### **Esri (Environmental Systems Research Institute)**  
 *Focus:* GeoAI · Spatial Data Science · GIScience · AI-Integrated GIS  
 
@@ -595,7 +595,9 @@ These internships typically emphasize:
 
 > **Note:** EarthScope internships are **education- and infrastructure-oriented**, making them especially **well suited** for students interested in **Earth science education, open data ecosystems, and scientific cyberinfrastructure**, rather than algorithm-centric research or commercial software roles.
 
-### **Mosaic (Geospatial Imaging Leaders)** *Focus:* Mobile Mapping · 360° Reality Capture · GeoAI · Computer Vision · Digital Twins
+### **Mosaic (Geospatial Imaging Leaders)** 
+
+**Focus: Mobile Mapping · 360° Reality Capture · GeoAI · Computer Vision · Digital Twins**
 
 Mosaic is a Prague-based leader in geospatial imaging, specializing in the development of the world’s most robust and precise industrial **360° street-level camera systems**. Their technology integrates ultra-high-resolution visual data with geospatial intelligence to provide foundational insights for urban mapping, surveying, and autonomous vehicle map updates. For PhD researchers, Mosaic offers a high-impact environment to bridge the gap between **Computer Vision, reality capture, and GIScience**.
 
@@ -619,6 +621,33 @@ These internships typically emphasize:
 *Website:* [https://www.mosaic51.com/](https://www.mosaic51.com/)
 
 > **Note:** Mosaic internships are **hardware-software integrated** and research-driven. They are particularly well suited for students interested in **mobile mapping tools, 3D reconstruction, and GeoAI**, rather than purely theoretical or non-spatial software roles.
+
+### **Snap Inc.**  
+*Focus:* Computer Vision · AR Systems · Wearable AI · Visual Communication Platforms  
+
+Snap Inc. is a camera-first technology company building products at the intersection of **computer vision**, **augmented reality (AR)**, and **wearable computing**. In addition to the consumer-facing Snapchat platform, Snap maintains dedicated **AR- and perception-oriented engineering teams** through Spectacles and Snap AR (Lens Studio), focusing on real-time visual intelligence, 3D scene understanding, and on-device machine learning systems.
+
+Snap provides selective internship opportunities suitable for graduate students and PhD researchers working in **computer vision, multimodal AI, AR/VR systems, and embodied perception**. These roles are particularly aligned with applied perception systems and production-level ML deployment in AR environments.
+
+**Relevant internship tracks include:**  
+- Computer Vision Engineering Intern  
+- Machine Learning / AI Intern (AR focus)  
+- Research Intern (Perception / Vision Systems)  
+- AR Platform Engineering Intern  
+
+These internships typically emphasize:  
+- 3D scene reconstruction, SLAM, and spatial understanding  
+- Real-time object detection, segmentation, and tracking  
+- Multimodal perception pipelines (vision + sensor fusion)  
+- On-device model optimization and low-latency inference  
+- Integration of ML models into AR production systems  
+
+*Location:* Vienna (Spectacles team), Los Angeles, Seattle (varies by team)  
+*International students:* CPT eligibility for U.S.-based roles; visa requirements vary by location  
+*Website:* https://careers.snap.com/  
+
+> **Note:** Applicants should distinguish research- and perception-focused internships from g
+
 
 ---
 
