@@ -648,7 +648,24 @@ These internships typically emphasize:
 
 > **Note:** Applicants should distinguish research- and perception-focused internships from g
 
+### **GeoWGS84.ai**  
+*Focus:* GeoAI · Geospatial Foundation Models · Satellite Intelligence · AI-Driven Mapping  
 
+GeoWGS84.ai is a GeoAI-native company focused on advancing AI-driven geospatial intelligence systems. The company integrates satellite imagery, spatial data infrastructure, and deep learning pipelines to enable automated object detection, mapping, and large-scale spatial analytics.
+
+In contrast to traditional GIS vendors, GeoWGS84.ai emphasizes scalable spatial AI models and AI-first geospatial reasoning workflows. Its technical direction aligns with emerging research areas such as geospatial foundation models, representation learning for Earth observation, and automated spatial knowledge extraction.
+
+These internships typically emphasize:
+- Deep learning for satellite and aerial imagery interpretation  
+- Object detection, segmentation, and spatial feature extraction  
+- Large-scale geospatial data processing and model deployment  
+- AI-enhanced mapping and spatial intelligence systems  
+
+*Location:* Remote / Global (startup-style structure)  
+*International students:* Case-dependent; often flexible for research-oriented collaborations  
+*Website:* https://www.geowgs84.ai/  
+
+> **Note:** GeoWGS84.ai represents a new generation of GeoAI-native companies that prioritize AI-driven spatial intelligence systems rather than traditional GIS software workflows.
 ---
 
 **Next Step:**
