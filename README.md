@@ -648,6 +648,60 @@ These internships typically emphasize:
 
 > **Note:** Applicants should distinguish research- and perception-focused internships from g
 
+### **GeoWGS84.ai**  
+*Focus:* GeoAI · Geospatial Foundation Models · Satellite Intelligence · AI-Driven Mapping  
+
+GeoWGS84.ai is a GeoAI-native company focused on advancing AI-driven geospatial intelligence systems. The company integrates satellite imagery, spatial data infrastructure, and deep learning pipelines to enable automated object detection, mapping, and large-scale spatial analytics.
+
+In contrast to traditional GIS vendors, GeoWGS84.ai emphasizes scalable spatial AI models and AI-first geospatial reasoning workflows. Its technical direction aligns with emerging research areas such as geospatial foundation models, representation learning for Earth observation, and automated spatial knowledge extraction.
+
+These internships typically emphasize:
+- Deep learning for satellite and aerial imagery interpretation  
+- Object detection, segmentation, and spatial feature extraction  
+- Large-scale geospatial data processing and model deployment  
+- AI-enhanced mapping and spatial intelligence systems  
+
+*Location:* Remote / Global (startup-style structure)  
+*International students:* Case-dependent; often flexible for research-oriented collaborations  
+*Website:* https://www.geowgs84.ai/  
+
+**Featured Insight:**
+- **Top 10 GeoAI Companies in the World 2025**  
+  Jul 1, 2025 · 3 min read  
+  https://www.geowgs84.ai/post/top-10-geoai-companies-in-the-world-2025  
+
+> **Note:** GeoWGS84.ai represents a new generation of GeoAI-native companies that prioritize AI-driven spatial intelligence systems rather than traditional GIS software workflows.
+
+### **Planet Labs**  
+*Focus:* Satellite Intelligence · Earth Observation · Change Detection · AI for Climate & Defense  
+
+Planet operates one of the largest constellations of Earth-imaging satellites in the world, delivering high-frequency global imagery for commercial, environmental, defense, and humanitarian applications. The company integrates satellite data pipelines with cloud infrastructure and machine learning systems to enable large-scale geospatial intelligence.
+
+Planet is particularly strong in time-series satellite analytics, change detection, and AI-driven monitoring systems.
+
+**Relevant internship tracks include:**
+- Machine Learning Intern (Earth Observation)  
+- AI / Deep Learning Intern (Change Detection Focus)  
+- Geospatial Data Science Intern  
+- Applied ML Intern (Satellite Intelligence)
+
+These internships typically emphasize:
+- Deep learning for satellite image analysis  
+- Embedding-based change detection models  
+- Temporal representation learning for Earth observation  
+- Large-scale geospatial data processing and cloud deployment  
+
+*Example Role:*  
+- **Machine Learning Intern, Solution Enablement** (Change Detection Focus)  
+  Location: Haarlem, Netherlands  
+  Focus: Deep learning & embedding-based approaches for land surface change detection  
+  https://www.planet.com/company/careers/  
+
+*Global Offices:* San Francisco, Washington DC, Germany, Austria, Slovenia, Netherlands  
+*International students:* Case-dependent; visa sponsorship varies by region  
+*Website:* https://www.planet.com/
+
+> **Note:** Planet is especially relevant for PhD students working on bi-temporal imagery, satellite-based disaster monitoring, and embedding-driven change detection models.
 
 ---
 
