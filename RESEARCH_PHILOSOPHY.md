@@ -59,3 +59,5 @@ and to explore how autonomous intelligence can deepen our understanding of the E
 生活是属于每个人自己的感受，不属于任何别人的看法。--余华
 
 我现在正在做的事情是对的吗？如果是错误的，我有勇气立刻停止吗？--段永平投资问答录
+
+建立停止清单，本质上是一种通过“做减法”来聚焦的智慧。人的精力和资源是有限的。--段永平投资问答录
