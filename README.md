@@ -724,6 +724,15 @@ Would you like me to help you draft a cover letter specifically targeting their 
 
 ▶ *Click the image to watch the full video on Bilibili.*
 
+### 🌍 Industry Vision: Geospatial AI & Spatial Intelligence
+
+- **Niantic Spatial – Geospatial AI: Beyond Maps**  
+  https://www.nianticspatial.com/campaigns/geospatial-ai-beyond-maps
+
+- **Niantic Spatial – Large Geospatial Models**  
+  https://www.nianticspatial.com/blog/largegeospatialmodel
+
+
 ## Relevant Awesome Lists
 
 - **Awesome** — Curated list of high-quality “awesome lists” across software, AI, data science, systems, and interdisciplinary resources.<br>
@@ -748,7 +757,7 @@ high-performance computing, and computational geospatial sciences.*
 
 ## Contributing
 
-Thank you for your interest in contributing to **Awesome Autonomous GeoAI**!  
+I appreciate your interest in contributing to **Awesome Autonomous GeoAI**!  
 This repository is intended to serve as a community-driven hub of high-quality resources for researchers, practitioners, and students working at the intersection of **geospatial intelligence, GeoAI, remote sensing, and AI4Science**.
 
 Your contributions — whether through suggestions, improvements, or additions — are welcome and appreciated.
@@ -832,7 +841,7 @@ When adding content, please include:
 - A **short title**
 - A **concise description**
 - A **valid and persistent URL**
-- Optionally, a **relevant citation** (author / year / publisher)
+- Optionally, a **relevant citation** (author/year/publisher)
 
 This helps maintain high utility for future readers.
 
