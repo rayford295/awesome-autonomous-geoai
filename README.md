@@ -317,6 +317,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on GeoAI, GIScience, big data analytics, disaster mapping and mitigation, urban informatics, vulnerability and social inequity, and human–environment interactions, with applications in disaster resilience, public health, and climate risk assessment.  
   https://www.xiaohuang116.com/
 
+- **Urban Spatial Informatics Lab** — Led by Dr. Xiaojiang Li<br>
+  (https://www.design.upenn.edu/people/xiaojiang-li), University of Pennsylvania.  
+  Research focuses on urban spatial informatics, GeoAI, street-view analytics, urban sensing, geospatial big data, and data-driven urban science, with strong emphasis on computational modeling of urban form, street greenery, built environment characteristics, and human activities using multimodal geospatial data such as street-view imagery, remote sensing, and human trace data.  
+  https://www.urbanspatial.info/
+
 
 ## Journals
 
