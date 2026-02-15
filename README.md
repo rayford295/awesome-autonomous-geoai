@@ -717,6 +717,14 @@ Would you like me to help you draft a cover letter specifically targeting their 
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
   https://mapsplatform.google.com/ai/
 
+- **I-GUIDE (NSF Institute for Geospatial Understanding through an Integrative Discovery Environment)**  
+  https://i-guide.io/  
+  A U.S. National Science Foundation (NSF) institute dedicated to advancing geospatial artificial intelligence (GeoAI), data-driven discovery, and cyberinfrastructure for tackling complex sustainability and resilience challenges.  
+
+  I-GUIDE integrates geospatial data science, AI, and interdisciplinary collaboration to enable large-scale, integrative research across domains such as climate, hazards, environmental change, and societal systems. The institute emphasizes open science, community engagement, workforce development, and next-generation spatial intelligence platforms.
+
+  *Keywords:* GeoAI, Spatial Intelligence, Cyberinfrastructure, Integrative Discovery, Sustainability Science, NSF Institute
+
 - **GeoGuess Lite** — A lightweight, subscription-free online geography guessing game inspired by GeoGuessr, letting users explore random locations and test their spatial/geographic intuition without limits.  
   https://geoguesslite.com/
 
