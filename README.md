@@ -725,6 +725,15 @@ Would you like me to help you draft a cover letter specifically targeting their 
 
   *Keywords:* GeoAI, Spatial Intelligence, Cyberinfrastructure, Integrative Discovery, Sustainability Science, NSF Institute
 
+- **AlphaEarth Foundations (Google DeepMind)** — A large-scale Earth foundation model that integrates petabytes of multimodal satellite data into unified 10m-resolution embeddings for global land and coastal mapping.  
+  https://deepmind.google/blog/alphaearth-foundations-helps-map-our-planet-in-unprecedented-detail/
+
+  AlphaEarth Foundations functions like a “virtual satellite,” generating consistent, AI-ready Earth embeddings that enable large-scale monitoring of food security, deforestation, urban expansion, water resources, and ecosystem change.  
+
+  The Satellite Embedding dataset (annual embeddings) is released via Google Earth Engine, allowing researchers to directly access foundation-level geospatial representations for downstream tasks such as classification, clustering, and change detection.
+
+  Keywords: Earth Foundation Model, Satellite Embeddings, Representation Learning, Multimodal EO, Global Mapping, Google DeepMind
+
 - **GeoGuess Lite** — A lightweight, subscription-free online geography guessing game inspired by GeoGuessr, letting users explore random locations and test their spatial/geographic intuition without limits.  
   https://geoguesslite.com/
 
