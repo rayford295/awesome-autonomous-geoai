@@ -302,6 +302,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on human mobility, accessibility, and travel behavior, environmental health, geospatial data science, and ethical issues in geospatial data and AI, with applications in smart cities, transportation planning, public health, and evidence-based urban policy.  
   https://www.junghwankim.org/smart-cities-for-good
 
+- **GeoHealth Lab** — Led by Dr. Yoo Min Park<br>
+  (https://geography.uconn.edu/person/yoo-min-park/), University of Connecticut.  
+  Research focuses on environmental health, environmental justice, health disparities, and spatial epidemiology using GIS, geospatial technologies, community-engaged research, and spatial statistical methods. The lab integrates spatial analysis and public health research to understand environmental exposures, social vulnerability, and health inequities across communities.  
+  https://www2.yoominpark.com/
+
 - **Spatial Data Lab (SDL)** — Led by Dr. Shuming Bao<br>
   (https://sdl.gis.harvard.edu/people/), Harvard University Spatial Data Lab@Center for Geographic Analysis, IQSS.  
   Research focuses on spatial data science, GIScience, GeoAI, spatiotemporal big data analytics, human mobility and migration, computational social science, and human-centered GeoAI, with applications in urban analytics, public health, digital health geography, and human–environment interactions.  
