@@ -713,6 +713,22 @@ These internships typically emphasize:
 
 > **Note:** Planet is especially relevant for PhD students working on bi-temporal imagery, satellite-based disaster monitoring, and embedding-driven change detection models.
 
+### **EPRI (Electric Power Research Institute)**  
+*Focus:* Climate AI · Energy System Resilience · Climate Risk Analytics  
+
+EPRI is a U.S.-based energy research organization operating at the intersection of climate science, data science, and energy infrastructure. The Energy Systems & Climate Analysis (ESCA) group applies AI/ML methods to climate hazard modeling and resilience assessment for electric utilities and government partners.
+
+These internships typically emphasize:
+- AI for climate and extreme weather modeling  
+- Hydroclimate and meteorological data analysis  
+- Climate risk quantification for infrastructure  
+- Energy system resilience analytics  
+
+*Location:* Remote / U.S.-based  
+*International students:* U.S. work authorization typically required; CPT/AT case-dependent; no explicit visa sponsorship listed  
+*Website:* https://www.epri.com/  
+*Climate Group:* http://esca.epri.com/
+
 ---
 
 **Next Step:**
