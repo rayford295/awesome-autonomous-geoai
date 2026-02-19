@@ -372,10 +372,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research lies at the intersection of computer science and spatial sciences, focusing on spatial machine learning, knowledge computing, heterogeneous data fusion, and AI-driven spatiotemporal prediction. The lab develops intelligent systems that exploit unique spatial data properties and structural knowledge to advance computer vision, natural language processing, and map-based geospatial intelligence.  
   https://cse.umn.edu/cs/yao-yi-chiang
 
-- **Ziqi Li** — Florida State University<br>
+- **Ziqi Li Research Group** — Florida State University  
   (https://sites.google.com/view/ziqi-li), Department of Geography, FSU.  
-  Research focuses on spatial statistics, GeoAI, explainable artificial intelligence (XAI), and open-source spatial modeling. Developer of GeoShapley and core contributor to PySAL and Multi-scale Geographically Weighted Regression (MGWR). His work advances spatially explicit machine learning models and interpretable geospatial analytics for understanding human behavior and spatial processes.  
+  Research focuses on spatial statistics, geospatial artificial intelligence (GeoAI), explainable artificial intelligence (XAI), and open-source spatial modeling. Developer of GeoShapley and core contributor to PySAL and Multi-scale Geographically Weighted Regression (MGWR).  
   https://sites.google.com/view/ziqi-li
+
 
 ## Journals
 
