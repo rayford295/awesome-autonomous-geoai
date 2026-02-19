@@ -255,6 +255,21 @@ and AI-driven Earth and environmental sciences. It should be strongly emphasized
 This list is **not exhaustive**, and community suggestions are welcome.*
 
 ---
+### Foundational Scholars in GIScience
+
+- **Michael F. Goodchild** — University of California, Santa Barbara  
+  A pioneer and intellectual architect of GIScience. His work on spatial uncertainty, geographic information theory, discrete global grids, and volunteered geographic information laid the conceptual foundation for modern GIScience and, by extension, GeoAI and spatially aware AI systems.  
+  https://geog.ucsb.edu/people/faculty/michael-goodchild
+
+- **John P. Wilson** — Founder, Spatial Sciences Institute, University of Southern California  
+  (https://johnwilson.usc.edu/), University of Southern California.  
+  A leading scholar in spatial sciences, Dr. Wilson founded USC’s Spatial Sciences Institute and has advanced interdisciplinary spatial education and research integrating GIS, remote sensing, spatial analysis, and geospatial technologies across engineering, public health, sociology, and environmental sciences. His work has significantly shaped the institutional development of spatial sciences as a cross-cutting academic field.  
+  https://spatial.usc.edu/
+
+- **CyberGIS Center** — Led by Dr. Shaowen Wang<br>
+  (https://cybergis.illinois.edu/), University of Illinois Urbana–Champaign.  
+  Research focuses on CyberGIS, high-performance geospatial computing, scalable spatial data science, and geospatial artificial intelligence (GeoAI) for sustainability and complex environmental challenges. The CyberGIS Center develops advanced geospatial cyberinfrastructure integrating AI, supercomputing, and large-scale spatial analytics to enable next-generation geospatial discovery and decision support systems.  
+  https://cybergis.illinois.edu/
 
 - **Geospatial Exploration and Resolution (GEAR) Lab** — Led by Dr. Lei Zou<br>
   (https://artsci.tamu.edu/geography/contact/profiles/lei-zou.html), Texas A&M University.  
@@ -271,6 +286,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on GIScience, GeoAI, geospatial data science, human mobility, social sensing, spatial networks, and urban informatics, with strong emphasis on large-scale spatial data analytics, multimodal data integration, and AI-driven understanding of human–environment systems.  
   https://geography.wisc.edu/geods/research
 
+- **Spatial Computing and Data Mining (SCDM) Lab** — Led by Dr. Qunying Huang<br>
+  (https://geography.wisc.edu/staff/huang-qunying/), University of Wisconsin–Madison.  
+  Research focuses on GIScience, spatial big data analytics, GeoAI, spatial computing, and remote sensing. The lab integrates physical sensing (e.g., Earth observation) and social sensing (e.g., mobile phone and social media data) to study natural hazards, environmental justice, human mobility, and social inequality, leveraging cloud computing, GPU acceleration, and large-scale geospatial data mining techniques.  
+  https://scdm.geography.wisc.edu/
+
 - **GeoAI Lab@UB** — Led by Dr. Yingjie Hu<br>
   (https://www.acsu.buffalo.edu/~yhu42/), University at Buffalo, The State University of New York.  
   Research focuses on GeoAI, geospatial data science, artificial intelligence for disaster management, Earth observation, remote sensing, and large-scale spatial analytics.
@@ -286,6 +306,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   (https://www.geog.psu.edu/directory/zhenlong-li), Pennsylvania State University.  
   Research focuses on GIScience, GeoAI, geospatial big data analytics, spatial computing, and autonomous GIS, with applications in natural hazards, public health, population mobility, environmental and climate change, and data-driven spatial decision-making.  
   https://sites.psu.edu/giscience/
+
+- **CyberInfrastructure and Computational Intelligence (CICI) Lab** — Led by Dr. Wenwen Li<br>
+  (https://wenwenspatial.github.io/), Arizona State University.  
+  Research focuses on geospatial cyberinfrastructure, spatial data infrastructure (SDI), geospatial knowledge discovery, AI-driven geospatial analytics, spatial web services (OGC), and scalable geocomputation. The lab develops intelligent geospatial platforms such as PolarHub and AI-enabled cyberinfrastructure systems to support large-scale Earth observation data integration, distributed geospatial services, and next-generation GIScience.  
+  https://cici.lab.asu.edu/
 
 - **Geospatial Responsible AI for Nature–Human Dynamics (GRIND) Lab** — Led by Dr. Bing Zhou<br>
   (https://geography.utk.edu/people/instructional-faculty/bing-zhou/), University of Tennessee, Knoxville.  
@@ -307,6 +332,11 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on environmental health, environmental justice, health disparities, and spatial epidemiology using GIS, geospatial technologies, community-engaged research, and spatial statistical methods. The lab integrates spatial analysis and public health research to understand environmental exposures, social vulnerability, and health inequities across communities.  
   https://www2.yoominpark.com/
 
+- **Cyberinfrastructure and Spatial Decision Intelligence (CIDI) Research Group** — Led by Dr. Zhe (Sarina) Zhang<br>
+  (https://artsci.tamu.edu/geography/contact/profiles/zhesarina-zhang.html), Texas A&M University.  
+  Research focuses on GIScience, CyberGIS, geospatial artificial intelligence (GeoAI), participatory GIS, and spatial decision intelligence. The group develops cyberinfrastructure-enabled hybrid spatial decision support systems integrating high-performance computing, distributed systems, and AI to address disaster management, coastal resilience, critical infrastructure protection, and sustainable development challenges.  
+  https://cidigis.com/
+
 - **Spatial Data Lab (SDL)** — Led by Dr. Shuming Bao<br>
   (https://sdl.gis.harvard.edu/people/), Harvard University Spatial Data Lab@Center for Geographic Analysis, IQSS.  
   Research focuses on spatial data science, GIScience, GeoAI, spatiotemporal big data analytics, human mobility and migration, computational social science, and human-centered GeoAI, with applications in urban analytics, public health, digital health geography, and human–environment interactions.  
@@ -322,11 +352,30 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on GeoAI, GIScience, big data analytics, disaster mapping and mitigation, urban informatics, vulnerability and social inequity, and human–environment interactions, with applications in disaster resilience, public health, and climate risk assessment.  
   https://www.xiaohuang116.com/
 
+- **COMPASS Lab (Laboratory of Computational Spatial Science for Sustainability)** — Led by Dr. Yi Qiang<br>
+  (https://www.usf.edu/arts-sciences/departments/geosciences/people/faculty/qiang-yi.aspx), University of South Florida.  
+  Research focuses on GIScience, spatial data science, spatio-temporal modeling, geocomputation, and GeoAI applications for sustainability and resilience. The lab develops analytical frameworks and computational tools to support disaster management, infrastructure resilience, environmental justice, and community sustainability through large-scale spatial data analytics and machine learning.  
+  https://compasslab.org/
+
 - **Urban Spatial Informatics Lab** — Led by Dr. Xiaojiang Li<br>
   (https://www.design.upenn.edu/people/xiaojiang-li), University of Pennsylvania.  
   Research focuses on urban spatial informatics, GeoAI, street-view analytics, urban sensing, geospatial big data, and data-driven urban science, with strong emphasis on computational modeling of urban form, street greenery, built environment characteristics, and human activities using multimodal geospatial data such as street-view imagery, remote sensing, and human trace data.  
   https://www.urbanspatial.info/
 
+- **Geospatial Data Intelligence (GeoDI) Lab** — Led by Dr. Di Zhu<br>
+  (https://geodi.umn.edu/), University of Minnesota, Twin Cities.  
+  Research focuses on GIScience, spatial statistics, geospatial artificial intelligence (GeoAI), spatiotemporal big data analytics, and intelligent social sensing. The lab develops explainable spatial models and AI-driven analytical frameworks to understand human–environment interactions, urban dynamics, public health, mobility, and sustainability using large-scale geospatial data.  
+  https://geodi.umn.edu/
+
+- **Knowledge Computing Lab** — Led by Dr. Yao-Yi Chiang<br>
+  (https://cse.umn.edu/cs/yao-yi-chiang), University of Minnesota, Twin Cities.  
+  Research lies at the intersection of computer science and spatial sciences, focusing on spatial machine learning, knowledge computing, heterogeneous data fusion, and AI-driven spatiotemporal prediction. The lab develops intelligent systems that exploit unique spatial data properties and structural knowledge to advance computer vision, natural language processing, and map-based geospatial intelligence.  
+  https://cse.umn.edu/cs/yao-yi-chiang
+
+- **Ziqi Li** — Florida State University<br>
+  (https://sites.google.com/view/ziqi-li), Department of Geography, FSU.  
+  Research focuses on spatial statistics, GeoAI, explainable artificial intelligence (XAI), and open-source spatial modeling. Developer of GeoShapley and core contributor to PySAL and Multi-scale Geographically Weighted Regression (MGWR). His work advances spatially explicit machine learning models and interpretable geospatial analytics for understanding human behavior and spatial processes.  
+  https://sites.google.com/view/ziqi-li
 
 ## Journals
 
