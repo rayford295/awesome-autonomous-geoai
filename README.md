@@ -827,9 +827,6 @@ These internships typically emphasize:
 > **Note:** 优先考虑在 AI for Science、GeoAI 或多模态空间认知方向有扎实研究基础的申请者，尤其看重具备复杂地球观测任务（如多模态损伤评估、空间推理）以及顶级会议审稿或发表经验的候选人。
 ---
 
-**Next Step:**
-Would you like me to help you draft a cover letter specifically targeting their Computer Vision or Python Developer internship roles?
-
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
   https://mapsplatform.google.com/ai/
