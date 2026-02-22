@@ -799,15 +799,33 @@ These internships typically emphasize:
 - 真实场景下的空间推理能力
 
 *Location:* 北京 (Beijing, China)
-*International students:* 需回国线下实习；不提供美国工作签证支持
 *Website:* https://talent.amap.com/
 
 > **Note:** 优先考虑具备 GeoAI、GIScience、Spatial Representation Learning、Street-view / Cross-view Learning 以及多模态模型与空间定位背景的申请者。
 
----
+### **商汤科技 (SenseTime / SenseEarth)**
+*Focus:* Remote Sensing Foundation Models · Multimodal Learning · Earth Observation · AI for Science · Digital Twin
 
-**Next Step:**
-Would you like me to help you draft a cover letter specifically targeting their Computer Vision or Python Developer internship roles?
+商汤科技是全球领先的人工智能软件公司。旗下 **SenseEarth（商汤遥感）**依托其大模型体系，专注于智能遥感解译、多源多模态地球观测数据融合、以及城市级数字孪生与三维重建，在自然资源监测、灾害响应评估与空间计算等领域有深厚积累。
+
+**Relevant internship tracks include:**
+- 遥感大模型 / AI for Science 研究实习生
+- 多模态算法研究实习生（视觉 / 遥感 / 跨模态）
+- 计算机视觉研究实习生（三维重建 / 数字孪生方向）
+- 空间数据智能与 GeoAI 算法实习生
+
+These internships typically emphasize:
+- 遥感视觉大模型（Vision Foundation Models for Earth Observation）的预训练与微调
+- 多源多模态空间数据融合（光学、SAR、遥感影像与街景等多视角理解）
+- 跨视角（Cross-view）表征学习与大规模空间场景三维建模
+- 面向地表变化检测、灾害损伤评估等真实场景的 GeoAI 算法落地
+- 参与高水平学术论文（如 CVPR, ICCV, KDD 等）或专利的发表与申请
+
+*Location:* 北京 (Beijing) / 上海 (Shanghai) / 深圳 (Shenzhen)
+*Website:* https://hr.sensetime.com/
+
+> **Note:** 优先考虑在 AI for Science、GeoAI 或多模态空间认知方向有扎实研究基础的申请者，尤其看重具备复杂地球观测任务（如多模态损伤评估、空间推理）以及顶级会议审稿或发表经验的候选人。
+---
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
