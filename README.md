@@ -779,6 +779,31 @@ These internships typically emphasize:
 *Website:* https://www.epri.com/  
 *Climate Group:* http://esca.epri.com/
 
+### **高德地图 (AMap / Alibaba Local Services Group)**
+*Focus:* Spatial Intelligence · GeoAI · Multimodal Models · Autonomous Driving · Urban Computing
+
+高德地图是中国领先的数字地图与空间信息平台，隶属于阿里巴巴集团。在**空间智能与多模态大模型**方向持续布局，尤其涉及自动驾驶、高精地图、时空数据智能与城市级计算。
+
+**Relevant internship tracks include:**
+- 生成式 AI / 世界模型研究实习生
+- 多模态大模型算法实习生（图像 / 视频 / 跨模态）
+- VLA（Vision-Language-Action）智能体研究实习生
+- 自动驾驶感知算法实习生
+- 时空数据建模与路径优化实习生
+
+These internships typically emphasize:
+- 多模态表示学习（Vision–Language–Map）
+- 空间语义理解与三维建模
+- Foundation Model 训练与优化
+- 大规模轨迹与城市级时空数据建模
+- 真实场景下的空间推理能力
+
+*Location:* 北京 (Beijing, China)
+*International students:* 需回国线下实习；不提供美国工作签证支持
+*Website:* https://talent.amap.com/
+
+> **Note:** 优先考虑具备 GeoAI、GIScience、Spatial Representation Learning、Street-view / Cross-view Learning 以及多模态模型与空间定位背景的申请者。
+
 ---
 
 **Next Step:**
