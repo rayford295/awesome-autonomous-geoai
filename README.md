@@ -779,6 +779,28 @@ These internships typically emphasize:
 *Website:* https://www.epri.com/  
 *Climate Group:* http://esca.epri.com/
 
+### **ZestyAI**  
+*Focus:* Climate Risk AI · Property Intelligence · Insurtech · Geospatial Machine Learning  
+
+ZestyAI is a property and climate risk analytics company serving the P&C insurance industry. The company builds AI-powered models that leverage **aerial imagery, property-level data, and environmental signals** to assess risks such as wildfire, hail, and water damage.  
+
+Their platform operates at the intersection of **remote sensing, geospatial analytics, and applied machine learning**, delivering property-specific intelligence for underwriting and risk pricing.
+
+**Relevant role example:**
+- Technical Talent Partner – Insurtech & AI (Remote, US/Canada)
+
+**Technical relevance (for GeoAI / Disaster / Climate researchers):**
+- Computer vision applied to high-resolution aerial imagery  
+- Property-level risk modeling and hazard analytics  
+- Climate risk quantification and insurance underwriting intelligence  
+- Applied ML/AI deployment in production-scale systems  
+
+*Location:* Remote (US or Canada)  
+*Headquarters:* San Francisco, CA  
+*Website:* https://www.zesty.ai  
+
+> **Positioning Insight:** ZestyAI sits at the intersection of **climate risk modeling, geospatial AI, and insurance decision systems**, making it strategically aligned with research trajectories in disaster intelligence, hazard modeling, and AI-driven resilience analytics.
+
 ### **高德地图 (AMap / Alibaba Local Services Group)**
 *Focus:* Spatial Intelligence · GeoAI · Multimodal Models · Autonomous Driving · Urban Computing
 
