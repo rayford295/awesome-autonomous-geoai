@@ -245,7 +245,18 @@ The list is **not exhaustive**, and community contributions are welcome.*
 **Supervisor / Contact:** Prof. Krzysztof Janowicz  
 📧 krzysztof.janowicz@univie.ac.at
 
+- **National University of Singapore (NUS) — Bachelor of Science in Geospatial Intelligence (GIX)** — Cross-Disciplinary Programme (XDP)<br>
+  An interdisciplinary undergraduate programme integrating geospatial science, artificial intelligence, remote sensing, and spatial analytics.  
+  The GIX programme emphasizes computational thinking, spatial data engineering, and AI-driven geospatial intelligence for real-world problem solving across disaster monitoring, urban mobility, autonomous systems, and environmental analytics.
 
+  **Key Focus Areas:**  
+  - Remote Sensing & LiDAR — High-resolution Earth observation and spatial analytics  
+  - Urban Mobility & Smart Cities — Transport modeling and geospatial optimization  
+  - Health Promotion & Spatial Epidemiology  
+  - Autonomous Systems & Geospatial AI  
+
+  The programme reflects the convergence of GIScience, AI, and computational spatial intelligence, positioning geospatial systems as foundational infrastructure for next-generation digital societies.  
+  https://gix-academy.github.io/
 
 
 ## Research Groups
