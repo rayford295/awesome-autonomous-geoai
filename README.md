@@ -256,7 +256,7 @@ The list is **not exhaustive**, and community contributions are welcome.*
   - Autonomous Systems & Geospatial AI  
 
   The programme reflects the convergence of GIScience, AI, and computational spatial intelligence, positioning geospatial systems as foundational infrastructure for next-generation digital societies.  
-  https://gix-academy.github.io/
+  https://gix-academy.github.io/welcome/index.html#slide=1
 
 
 ## Research Groups
