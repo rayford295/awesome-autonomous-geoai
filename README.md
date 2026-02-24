@@ -801,6 +801,31 @@ Their platform operates at the intersection of **remote sensing, geospatial anal
 
 > **Positioning Insight:** ZestyAI sits at the intersection of **climate risk modeling, geospatial AI, and insurance decision systems**, making it strategically aligned with research trajectories in disaster intelligence, hazard modeling, and AI-driven resilience analytics.
 
+### **Zipline**  
+*Focus:* Autonomous Systems · Spatial Planning · Robotics · Geospatial Algorithms  
+
+Zipline designs and operates autonomous delivery drones, building large-scale instant logistics systems. The Spatial Planning Team develops long-term scalable systems that define **where and how autonomous aircraft fly**, including constraints, routing logic, and safety priors for real-world deployment.
+
+**Relevant internship role:**
+- Spatial Planning Intern (Summer 2026)
+
+**Technical emphasis:**
+- Path planning algorithms and multi-objective routing  
+- Spatial search and geospatial constraint modeling  
+- Data generation, transformation, and spatial analytics pipelines  
+- Real-world deployment of planning algorithms in autonomous systems  
+
+**Research alignment (GeoAI / Spatial Intelligence):**
+- Algorithmic spatial reasoning in continuous 3D space  
+- Constraint-aware route optimization  
+- Large-scale spatial data ingestion and validation  
+- Bridging theoretical path planning with real-world operational constraints  
+
+*Location:* South San Francisco, CA  
+*Website:* https://www.zipline.com/careers  
+
+> Particularly relevant if your trajectory includes spatial intelligence, autonomous systems, or algorithmic spatial decision-making beyond traditional GIS workflows.
+
 ### **高德地图 (AMap / Alibaba Local Services Group)**
 *Focus:* Spatial Intelligence · GeoAI · Multimodal Models · Autonomous Driving · Urban Computing
 
