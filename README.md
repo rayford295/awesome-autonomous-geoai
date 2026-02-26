@@ -837,6 +837,35 @@ Zipline designs and operates autonomous delivery drones, building large-scale in
 
 > Particularly relevant if your trajectory includes spatial intelligence, autonomous systems, or algorithmic spatial decision-making beyond traditional GIS workflows.
 
+### **RAND Corporation**  
+*Focus:* Policy Research · Risk Analysis · AI for Public Policy · Systems Modeling · National Security · Climate & Disaster Research  
+
+RAND Corporation is a leading U.S. nonprofit research institution conducting rigorous, policy-oriented research across national security, public health, climate risk, artificial intelligence, socio-technical systems, and economic modeling.  
+
+The **Graduate Student Summer Associate Program** offers PhD students the opportunity to collaborate with RAND researchers on high-impact, decision-oriented research projects that directly inform government and institutional policy.
+
+**Relevant research tracks include:**
+- Artificial Intelligence & Data Science for Public Policy  
+- Risk and Decision Analysis  
+- Operations Research & Systems Engineering  
+- Climate, Energy & Disaster Resilience  
+- National Security & Technology Policy  
+- Economics, Statistics & Social Science Modeling  
+
+The program emphasizes:
+- Quantitative modeling and simulation  
+- AI applications in governance and public systems  
+- Systems-level decision analysis  
+- Interdisciplinary collaboration  
+- Research with real-world policy impact  
+
+*Location:* Santa Monica, CA (also Washington, D.C.; Pittsburgh, PA; Boston, MA)  
+*Program Type:* Research-intensive summer associate program  
+*Eligibility:* PhD students across engineering, computer science, statistics, economics, public policy, and related disciplines  
+*Website:* https://www.rand.org/jobs/summer-associates.html
+
+> **Note:** Unlike traditional industry internships, RAND positions are research-driven and policy-oriented. The focus is on analytical rigor, modeling, and strategic decision support rather than product development.
+
 ### **高德地图 (AMap / Alibaba Local Services Group)**
 *Focus:* Spatial Intelligence · GeoAI · Multimodal Models · Autonomous Driving · Urban Computing
 
