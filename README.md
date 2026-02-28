@@ -967,6 +967,9 @@ These internships typically emphasize:
 - **Awesome Computational Social Science** — Curated resources on computational social science methods, tools, and datasets relevant to social behavior and large-scale data analysis.<br>
   https://github.com/cllei12/awesome-computational-social-science
 
+- **Qusheng Wu (Open-Source GeoAI Leader)** — Creator and maintainer of widely used open-source geospatial Python packages including **geemap**, **leafmap**, **SAMGeo**, and **GeoAI**. His work bridges cloud computing, remote sensing, and artificial intelligence to make large-scale geospatial analytics more accessible, reproducible, and intelligent.  
+  GitHub: https://github.com/opengeos  
+  Faculty Page: https://qushengwu.com
 
 ## Funding and Grants
 
