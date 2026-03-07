@@ -876,53 +876,81 @@ The program emphasizes:
 
 > **Note:** Unlike traditional industry internships, RAND positions are research-driven and policy-oriented. The focus is on analytical rigor, modeling, and strategic decision support rather than product development.
 
-### **高德地图 (AMap / Alibaba Local Services Group)**
-*Focus:* Spatial Intelligence · GeoAI · Multimodal Models · Autonomous Driving · Urban Computing
+### **AMap (Alibaba Local Services Group)**
+*Focus:* Spatial Intelligence · GeoAI · Multimodal Models · Autonomous Driving · Urban Computing  
 
-高德地图是中国领先的数字地图与空间信息平台，隶属于阿里巴巴集团。在**空间智能与多模态大模型**方向持续布局，尤其涉及自动驾驶、高精地图、时空数据智能与城市级计算。
+AMap is one of China’s leading digital mapping and spatial information platforms and operates under **Alibaba Group’s Local Services division**. The company actively develops technologies in **spatial intelligence and multimodal foundation models**, particularly for autonomous driving, high-definition mapping, spatiotemporal data intelligence, and large-scale urban computing systems.
 
 **Relevant internship tracks include:**
-- 生成式 AI / 世界模型研究实习生
-- 多模态大模型算法实习生（图像 / 视频 / 跨模态）
-- VLA（Vision-Language-Action）智能体研究实习生
-- 自动驾驶感知算法实习生
-- 时空数据建模与路径优化实习生
+- Generative AI / World Model Research Intern  
+- Multimodal Foundation Model Algorithm Intern (Image / Video / Cross-modal)  
+- VLA (Vision–Language–Action) Agent Research Intern  
+- Autonomous Driving Perception Algorithm Intern  
+- Spatiotemporal Data Modeling and Route Optimization Intern  
 
 These internships typically emphasize:
-- 多模态表示学习（Vision–Language–Map）
-- 空间语义理解与三维建模
-- Foundation Model 训练与优化
-- 大规模轨迹与城市级时空数据建模
-- 真实场景下的空间推理能力
+- Multimodal representation learning (Vision–Language–Map integration)  
+- Spatial semantic understanding and 3D scene modeling  
+- Training and optimization of large foundation models  
+- Large-scale trajectory and urban spatiotemporal data modeling  
+- Spatial reasoning capabilities in real-world environments  
 
-*Location:* 北京 (Beijing, China)
+*Location:* Beijing, China  
 *Website:* https://talent.amap.com/
 
-> **Note:** 优先考虑具备 GeoAI、GIScience、Spatial Representation Learning、Street-view / Cross-view Learning 以及多模态模型与空间定位背景的申请者。
+> **Note:** Applicants with backgrounds in **GeoAI, GIScience, spatial representation learning, street-view or cross-view learning, and multimodal spatial models** are particularly well aligned with these research-oriented positions.
 
-### **商汤科技 (SenseTime / SenseEarth)**
-*Focus:* Remote Sensing Foundation Models · Multimodal Learning · Earth Observation · AI for Science · Digital Twin
+---
 
-商汤科技是全球领先的人工智能软件公司。旗下 **SenseEarth（商汤遥感）**依托其大模型体系，专注于智能遥感解译、多源多模态地球观测数据融合、以及城市级数字孪生与三维重建，在自然资源监测、灾害响应评估与空间计算等领域有深厚积累。
+### **SenseTime (SenseEarth)**
+*Focus:* Remote Sensing Foundation Models · Multimodal Learning · Earth Observation · AI for Science · Digital Twin  
+
+SenseTime is a global artificial intelligence company specializing in computer vision and large-scale AI systems. Its **SenseEarth platform** focuses on intelligent remote sensing interpretation, multimodal Earth observation data fusion, and large-scale digital twin technologies for urban environments. The platform supports applications in natural resource monitoring, disaster response, and spatial intelligence systems.
 
 **Relevant internship tracks include:**
-- 遥感大模型 / AI for Science 研究实习生
-- 多模态算法研究实习生（视觉 / 遥感 / 跨模态）
-- 计算机视觉研究实习生（三维重建 / 数字孪生方向）
-- 空间数据智能与 GeoAI 算法实习生
+- Remote Sensing Foundation Model / AI for Science Research Intern  
+- Multimodal Algorithm Research Intern (Vision / Remote Sensing / Cross-modal)  
+- Computer Vision Research Intern (3D Reconstruction / Digital Twin)  
+- GeoAI and Spatial Data Intelligence Algorithm Intern  
 
 These internships typically emphasize:
-- 遥感视觉大模型（Vision Foundation Models for Earth Observation）的预训练与微调
-- 多源多模态空间数据融合（光学、SAR、遥感影像与街景等多视角理解）
-- 跨视角（Cross-view）表征学习与大规模空间场景三维建模
-- 面向地表变化检测、灾害损伤评估等真实场景的 GeoAI 算法落地
-- 参与高水平学术论文（如 CVPR, ICCV, KDD 等）或专利的发表与申请
+- Pretraining and fine-tuning of **vision foundation models for Earth observation**  
+- Fusion of multimodal geospatial data (optical imagery, SAR, satellite data, street-view imagery, etc.)  
+- Cross-view representation learning and large-scale spatial scene reconstruction  
+- GeoAI methods for real-world tasks such as change detection and disaster damage assessment  
+- Participation in high-impact research outputs (e.g., publications at **CVPR, ICCV, KDD**) or related patents  
 
-*Location:* 北京 (Beijing) / 上海 (Shanghai) / 深圳 (Shenzhen)
+*Location:* Beijing / Shanghai / Shenzhen, China  
 *Website:* https://hr.sensetime.com/
 
-> **Note:** 优先考虑在 AI for Science、GeoAI 或多模态空间认知方向有扎实研究基础的申请者，尤其看重具备复杂地球观测任务（如多模态损伤评估、空间推理）以及顶级会议审稿或发表经验的候选人。
----
+> **Note:** Candidates with strong research backgrounds in **AI for Science, GeoAI, multimodal spatial intelligence, and Earth observation analytics** are particularly competitive for these research-focused positions.
+
+### **Synspective**
+*Focus:* Earth Observation · SAR Satellites · Remote Sensing AI · Disaster Monitoring · Spatial Intelligence  
+
+Synspective is a Japan-based Earth observation company developing a constellation of **small Synthetic Aperture Radar (SAR) satellites** to provide high-frequency, all-weather global monitoring. The company integrates **satellite data, geospatial analytics, and AI-driven insights** to support disaster response, infrastructure monitoring, and national security applications.
+
+Synspective is particularly relevant for researchers working in **remote sensing, GeoAI, spatial data science, and Earth observation analytics**. Internships and research collaborations often involve working with **SAR imagery, satellite data pipelines, and geospatial machine learning models** for large-scale Earth monitoring.
+
+**Relevant internship tracks include:**
+- Remote Sensing / Earth Observation Intern  
+- Machine Learning Intern (Geospatial or SAR Data)  
+- Geospatial Data Scientist Intern  
+- Satellite Data Analytics Intern  
+
+These internships typically emphasize:
+- SAR image processing and interferometric SAR (InSAR) analysis  
+- Machine learning for remote sensing and Earth observation data  
+- Large-scale geospatial data pipelines and satellite data platforms  
+- Disaster monitoring and infrastructure deformation detection  
+- AI-driven Earth observation analytics and spatial intelligence systems  
+
+*Location:* Tokyo, Japan  
+*International students:* Opportunities depend on program availability and visa sponsorship  
+*Website:* https://synspective.com/recruit/
+
+> **Note:** Compared with traditional optical Earth observation companies, Synspective focuses on **SAR-based monitoring**, enabling **all-weather and nighttime Earth observation**, which is particularly valuable for disaster monitoring, infrastructure stability analysis, and environmental change detection.
+
 
 ## Miscellaneous
 - **Google Maps Platform — Build with AI** — An AI-powered development entry point for building geospatial applications with Google Maps APIs. It provides agent-based tools, code generation, and solution guides to rapidly prototype location-aware apps using Maps, Routes, and Places, and to integrate map-centric context into conversational and multimodal AI systems.  
