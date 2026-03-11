@@ -28,8 +28,165 @@ to read carefully, to think spatially,
 and to explore how autonomous intelligence can deepen our understanding of the Earth and its complex systems.<br>
 很抱歉我会用我的母语（中文）来写我的研究哲学，翻译是极其简单的事情。如果你渴望了解，请翻译。
 
-什么是我的博士专业？在当今社会，地理信息科学（Geographic Information Science, GIScience）及其与人工智能深度融合形成的地理人工智能（GeoAI），在理解复杂社会—环境系统、支撑公共决策以及应对全球性挑战方面发挥着日益关键的作用。首先，现代社会正处于一个高度空间化与数据化的时代。城市运行、交通系统、公共健康、气候变化、自然灾害以及社会不平等等问题，本质上都具有显著的空间与时间特征。GIScience 通过对空间数据的采集、建模与分析，为我们提供了一种系统性理解“事物发生在何处、如何相互关联以及随时间如何变化”的科学方法。这种空间视角不仅帮助政府和研究机构更准确地识别问题分布，也为资源配置和政策制定提供了可靠依据。其次，随着大数据与人工智能技术的发展，GeoAI 正在显著提升地理信息科学的分析能力和社会影响力。通过将机器学习、深度学习等方法引入空间数据分析，GeoAI 能够从海量、多源、异构的数据中自动发现模式与规律。这对于灾害风险评估、气候适应、公共健康监测以及城市韧性建设尤为重要。例如，在自然灾害发生前后，GeoAI 可以快速整合遥感影像、街景数据和社会感知数据，为应急响应和灾后恢复提供高时效、高精度的空间支持。此外，我所学习的这一专业在促进社会公平与可持续发展方面也具有重要意义。通过精细化的空间分析，GIScience 和 GeoAI 能够揭示不同群体在环境暴露、健康风险和公共服务可达性方面的差异，从而为弱势群体发声，并推动更加公平和负责任的决策。这种以数据和空间证据为基础的方法，有助于缩小社会不平等，增强社区层面的韧性。最后，在人工智能快速发展的背景下，地理信息科学不仅关注“技术能做什么”，也强调“技术应该如何被使用”。将空间智能与人类判断相结合，确保分析结果可解释、可审计，并服务于公共利益，是该领域的重要使命。因此，我的专业不仅是技术导向的学科，更是一门与社会责任、公共治理和人类福祉密切相关的交叉科学。综上所述，地理信息科学与地理人工智能在当今社会中具有不可替代的重要性。它们为理解复杂世界提供了空间化的科学框架，为应对灾害、气候变化和社会不平等等重大挑战提供了关键工具，也为构建更加安全、公平和可持续的未来奠定了坚实基础。--ChatGPT-5.2
+## 什么是我的博士专业？
+在当今社会，地理信息科学（Geographic Information Science, GIScience）及其与人工智能深度融合形成的地理人工智能（GeoAI），在理解复杂社会—环境系统、支撑公共决策以及应对全球性挑战方面发挥着日益关键的作用。首先，现代社会正处于一个高度空间化与数据化的时代。城市运行、交通系统、公共健康、气候变化、自然灾害以及社会不平等等问题，本质上都具有显著的空间与时间特征。GIScience 通过对空间数据的采集、建模与分析，为我们提供了一种系统性理解“事物发生在何处、如何相互关联以及随时间如何变化”的科学方法。这种空间视角不仅帮助政府和研究机构更准确地识别问题分布，也为资源配置和政策制定提供了可靠依据。其次，随着大数据与人工智能技术的发展，GeoAI 正在显著提升地理信息科学的分析能力和社会影响力。通过将机器学习、深度学习等方法引入空间数据分析，GeoAI 能够从海量、多源、异构的数据中自动发现模式与规律。这对于灾害风险评估、气候适应、公共健康监测以及城市韧性建设尤为重要。例如，在自然灾害发生前后，GeoAI 可以快速整合遥感影像、街景数据和社会感知数据，为应急响应和灾后恢复提供高时效、高精度的空间支持。此外，我所学习的这一专业在促进社会公平与可持续发展方面也具有重要意义。通过精细化的空间分析，GIScience 和 GeoAI 能够揭示不同群体在环境暴露、健康风险和公共服务可达性方面的差异，从而为弱势群体发声，并推动更加公平和负责任的决策。这种以数据和空间证据为基础的方法，有助于缩小社会不平等，增强社区层面的韧性。最后，在人工智能快速发展的背景下，地理信息科学不仅关注“技术能做什么”，也强调“技术应该如何被使用”。将空间智能与人类判断相结合，确保分析结果可解释、可审计，并服务于公共利益，是该领域的重要使命。因此，我的专业不仅是技术导向的学科，更是一门与社会责任、公共治理和人类福祉密切相关的交叉科学。综上所述，地理信息科学与地理人工智能在当今社会中具有不可替代的重要性。它们为理解复杂世界提供了空间化的科学框架，为应对灾害、气候变化和社会不平等等重大挑战提供了关键工具，也为构建更加安全、公平和可持续的未来奠定了坚实基础。--ChatGPT-5.2
 
+
+## What is disaster resilience? What are the major/important tasks in disaster resilience? What are the data/model challenges in supporting these tasks?
+From a geographical perspective, disaster resilience is essentially the spatiotemporal adaptability of a Human-Environment System. It involves three environments and three types of systems: the natural system (climate, topography, ecology), the built environment (cities, transportation, electricity, buildings), and the social system (population, economy, governance capacity). Disaster resilience refers to the ability of a socio-ecological-infrastructure system to withstand, adapt to, recover from, and sustain itself in the face of natural disasters. Simply put, it answers four questions: Can it withstand a disaster? How will it respond when a disaster strikes? How quickly can it recover after a disaster? And can it become stronger in the future?
+
+Disaster resilience typically revolves around the disaster lifecycle:
+1. Risk Identification
+Goal: Identifying where disasters are most likely to occur and who is most vulnerable.
+2. Monitoring & Early Warning
+Goal: Detecting disasters as early as possible and issuing early warnings.
+3. Damage Assessment
+Goal: Quickly assessing the impact of a disaster.
+4. Emergency Response
+Goal: Rapidly deploying resources for disaster relief after a disaster occurs.
+5. Recovery & Adaptation
+Goal: Restoring social systems and reducing future risks.
+
+Disaster research data presents several typical challenges:
+1. Multi-source data
+2. Spatiotemporal heterogeneity
+3. Data scarcity
+4. Noisy data
+
+Model Challenges
+1. Multimodal Integration
+2. Multi-scale Problem
+3. Generalization
+4. Explainability
+
+## What is GenAI? What are the common types/applications of GenAI, and why are they potentially powerful in disaster resilience research and disaster management (think about the monitoring, mapping, modeling, management, and mitigation framework)? How can GenAI/GenGeoAI support tasks to improve disaster resilience? 
+First, we need to understand that the main tasks of traditional AI are classification, prediction, and detection. Generative AI (GenAI) is a type of AI technology that can learn data distributions and generate new content. Its core capability is naturally generating new content, including but not limited to images, text, and video. Common techniques include Large Language Models (LLMs), Diffusion Models, and multimodal generative models such as vision-language models.
+
+I believe GenAI has main characteristics, which are also summarized in Dr. Zhongzheng Tu's course: GenAI can generate more content (data); it has cross-modal capabilities (visual language capabilities; and reasoning, which can be used for explanation).
+Main Types and Applications of GenAI. In real-world applications, GenAI can be broadly categorized into five types:
+
+1. Text Generation: 
+Automatic report generation, disaster information summarization, policy analysis, and emergency decision support.
+Example: Automatically summarizing disaster information from social media.
+
+2. Image Generation:
+Models: GAN, Diffusion models
+Applications: Disaster scenario simulation, data augmentation, virtual training data generation.
+Example: Generating flood or fire scenarios for model training.
+
+3. Multimodal Generation:
+Image understanding + text interpretation and cross-modal reasoning.
+Example:
+Analyzing street view images and generating disaster damage descriptions.
+
+4. Synthetic Data Generation:
+Applications: Few-shot learning, data augmentation, simulating extreme events.
+Example: Generating rare disaster data.
+
+5. Simulation/World Models:
+Applications: Disaster evolution simulation, urban system simulation, complex system prediction.
+Example:
+Simulating wildfire spread or flood propagation.
+
+Disaster research typically involves five aspects: monitoring, mapping, modeling, management, and mitigation.
+GenAI has potential in all of these areas.
+1. Monitoring
+GenAI can:
+Automatically analyze satellite imagery
+Automatically interpret the street view image
+Automatically summarize social media
+
+2. Mapping
+GenAI can help:
+Automatically generate disaster maps
+Automatically identify damaged buildings
+Automatically update geographic databases
+
+
+3. Modeling
+GenAI can:
+Build complex system models
+Simulate disaster propagation
+Predict disaster impacts
+
+
+4. Management
+GenAI can assist in:
+Emergency decision-making
+Resource allocation
+Risk communication
+
+5. Mitigation
+GenAI can help with:
+Urban planning
+Risk prediction
+Climate adaptation
+
+GenAI's key advantages in disaster research lie in 1) multimodal understanding capabilities, 2) few-shot learning capabilities, 3) automated knowledge generation, and 4) complex system simulation capabilities. My current research shows that GenAI supports three key tasks: disaster perception, disaster reasoning, and disaster diagnosis. This is also the core idea behind my multi-agent disaster system.
+
+## Case studies (it is important to think about how each case study reflects/represents the potential of GenAI/GenGeoAI in supporting disaster resilience improvement tasks)
+
+Case Study 1: Disaster Monitoring Using Social Media + LLM (Bing Zhou) 
+During disasters, a vast amount of information spreads rapidly through social media. Generative artificial intelligence, especially large language models (LLMs), can automatically analyze and summarize this textual information, extracting the location, type, and extent of the disaster. For example, the model can identify flood or fire-related information from social media posts and generate real-time disaster summaries. This approach transforms dispersed social media information into a "social sensing system," thereby improving the speed and coverage of disaster monitoring.
+
+Case Study 2: Disaster Mapping Using Remote Sensing Imagery or Street View + GenAI (Yifan Yang)
+Rapidly assessing damage after a disaster is crucial for emergency response. Generative artificial intelligence can combine remote sensing imagery and computer vision models to automatically identify damaged buildings, flooded areas, or road disruptions, generating disaster loss maps. For example, by analyzing pre- and post-disaster satellite imagery, the model can detect changes and create a damage distribution map. This automated disaster mapping technology can significantly improve the efficiency of disaster assessment and provide vital spatial information support for the allocation of relief resources. The same approach can be used for street view imagery. We can generate street view images from remote sensing images and then perform ground sensing.
+
+Case Study 3: Disaster Scenario Simulation Using Generative Models (Debayan Mandal)
+Generative artificial intelligence can also be used to simulate different disaster scenarios, thereby supporting disaster risk prediction. This can also be considered digital twins. For example, generative models can simulate flood diffusion processes under different rainfall intensities, or wildfire spread paths under different wind speeds. By generating multiple possible disaster scenarios, researchers can assess risk changes under different environmental conditions. This scenario simulation capability is of great significance for understanding the dynamic processes of disasters and developing disaster prevention strategies.
+
+
+Case Study 4: GenAI Supporting Disaster Management Decisions (Ali Mostafavi or Zihui Ma)
+During disaster emergency response, decision-makers need to quickly understand complex and constantly evolving information. Generative artificial intelligence, especially large language models, can integrate multi-source data from remote sensing imagery, social media, sensors, and official reports, and automatically generate disaster reports or decision recommendations. For example, the model can summarize the main problems in the affected area and propose rescue priorities or resource allocation plans. This technology helps managers understand the disaster situation more quickly, thereby improving the efficiency of emergency management.
+
+
+## Existing challenges and future opportunities
+While the application of GenAI/GenGeoAI to disaster resilience research and management holds immense potential, it also presents a series of challenges and significant development opportunities. Let's delve into some new aspects beyond the familiar ones.
+
+First, significant challenges remain regarding data. Data is gold, data is oil. Disaster data often suffers from multi-source heterogeneity, large differences in spatiotemporal resolution, and data gaps. For example, remote sensing imagery, street view images, social media information, and sensor data vary significantly in format, quality, and update frequency, making multimodal data fusion difficult. Furthermore, some disaster events are low-frequency but high-impact, resulting in limited data samples available for model training, thus affecting the stability and generalization ability of the generated models. Data uncertainty and data quality have a significant impact on the results. My thinking is to become a researcher who creates comprehensive data. We should avoid generating one type of data from another, as this has a series of subsequent drawbacks. Can we simulate the entire process, creating a world model? In this way, all the scientific phenomena within the data are accessible.
+
+Second, model reliability and generalization ability remain key issues. Generative models can generate misinformation or "hallucinations," and in high-risk decision-making environments like disaster management, this uncertainty can have serious consequences. Furthermore, many models are trained on data specific to a particular region or disaster type, thus limiting their applicability across different regions or disaster scenarios. Therefore, I've been considering the current level of zero-shot models, which is why I created agent4disaster—to examine the most basic capabilities of existing models.
+
+Third, interpretability and decision-making trust are also significant challenges. Disaster management involves multiple stakeholders, including governments, emergency agencies, and the public; therefore, model outputs not only need to be accurate but also explainable in their reasoning. If a model cannot clearly explain the basis of its predictions or recommendations, decision-makers may find it difficult to trust or adopt these technologies. Humans naturally distrust non-human content, especially AI capabilities, and there is currently anxiety surrounding AI. This will inevitably lead to a large amount of content attacking AI, even if AI makes fewer mistakes than humans, because when it does, the responsibility is difficult to assess.
+
+In addition, ethical and data governance issues also need attention. For example, social media data may involve privacy issues, and content generated by generative models may also pose a risk of misleading information. Therefore, applying GenAI in disaster research requires establishing a transparent and responsible data governance framework. This is where mutual visibility comes in, as we discussed earlier. I believe that mutual visibility mechanisms can address privacy issues to some extent.
+
+GenAI, or AI in general, currently has two main paths: one is the general model, the world model—a large model that brute-forces solutions to all problems; embedding is a very good example, and there are increasingly more papers on it. The other is the agent—small and specialized, solving each small problem with capabilities far exceeding those of humans and existing models.
+
+Overall, AI is disrupting everything, and we need to use AI as quickly as possible, research AI, and understand the essence of problems. We should boldly raise questions and then use engineer-like thinking to iterate rapidly.
+
+
+
+## What is GeoAI?
+GeoAI is a very complex concept, and we can interpret it from multiple perspectives. The difficulty lies in the fact that this interdisciplinary concept is hard to break down clearly. 
+
+Why do we need to interpret it? Because whenever we propose a new concept, such as Responsible GeoAI or Fiduciary GeoAI, we need to first explain what GeoAI is. Before attempting to explain GeoAI, there are a few questions. First, what is the difference between GeoAI and AI for GEO-related Science? Considering other fields like biology, physics, and chemistry—hard sciences—we rarely hear it named BioAI, PhyAI, or ChemAI. It's more often called AI for Science. The core difference is: AI for Geo = AI as a tool to solve geospatial science problems. GeoAI = a new methodological system formed by the integration of AI and geospatial science. Therefore, my current research is more focused on AI4Science, specifically due to the breadth and inclusiveness of the GeoAI concept. My research can also be considered a part of GeoAI. GeoAI focuses on, but is not limited to, spatial autocorrelation, spatial heterogeneity, spatiotemporal processes, geographic scale, and proximity relationships—these are theoretical structures unique to geography. However, this is also a part that my current research lacks.
+
+Therefore, if I had to summarize my current research, it would be Autonomous/Responsible/Fiduciary AI for/in disaster assessment. I consider disaster assessment to be part of geographical research. Disaster assessment uses computational tools to abstract complex information and simplify it to geographic information suitable for mapping.
+
+Therefore, I'm also thinking about my future, even a ten-year research plan. I believe that using AI as a tool, AI4science, might be a research direction I excel at, and also an extension of my current path. AI4geography problems can always be studied, and can also be considered as the research content of geoAI. However, this type of research is always limited by AI. Similar to AI scientists discovering better models or algorithms, I apply them to my field. I'm more like an applied scientist, which is also my current role. Considering the special nature of geographical data, we can always publish papers in this way, although the impact of their work is limited. Secondly, there's cartography. Maps are one of the most special products with geographical characteristics. AI + mapping will involve a lot of engineering and ethical issues, which I'm very interested in. How to define the next generation of AI + cartography, and how to conduct entirely new research beyond AR, VR, and other technologies. Robotic cartography will change the role of cartographers in the future. But how humans interact with maps is also a very good question. Human-computer interaction in maps also requires geographical thinking. Just like Apple's products are superior to most brands, there are actually many research questions to consider. 
+
+Finally, there's process modeling, which can also be understood as spatiotemporal intelligence, world models, and digital twins. I really like the concept of spatiotemporal intelligence because, in my view, time + space equals geography. My current research doesn't fully utilize the characteristics of time, even though we can consider pre- and post-disaster periods as spatiotemporal. Remote sensing is one of the best research subjects for spatiotemporal intelligence. I believe the greatest significance of spatiotemporal intelligence and world models lies in attempting to solve the problems of missing data and uncertainty. If we can continuously simulate the entire process of an event, then we can naturally discover its correlations and predict the future. Taking remote sensing-generated street-view as an example, if we use a world model to simulate the entire process of a hurricane's disaster, then we only need to capture remote sensing images and street-view images from different perspectives. The problem of missing data no longer exists; only angles are needed. Therefore, video generation is currently a path to solve this problem. I've also seen Dr. Wenwen Li use video models to predict wildfire planning. Similarly, I think audio models may also attempt to address seismic waves. Spatiotemporal intelligence is currently the most exciting research topic for me.
+
+
+Returning to GeoAI, the mainstream explanations currently include Esri's explanation, the GeoAI tool developed by Dr. Qiusheng Wu, and Dr. Song Gao's manual explanation. GeoAI usually refers to Geospatial Artificial Intelligence. The core understanding is not as simple as "using AI on maps," but rather truly combining AI's learning ability with the spatial thinking of geography/GIScience, enabling machines to handle questions such as "where is it, why is it there, what are the nearby relationships, and how will it change over time."
+
+Therefore, I prefer to understand GeoAI as having three layers. We can be considered GeoAI as long as we make contributions at any of these three levels.
+
+The first layer: The data layer.
+
+GeoAI deals with geospatial data, such as remote sensing imagery, street view imagery, trajectories, POIs, road networks, topography, meteorology, social media, population, and socioeconomic data. This data is often multi-source and heterogeneous, and it includes coordinates, time, and scale. A key value of GeoAI is that it puts this originally scattered data into a unified spatial framework for learning.
+
+The second layer: The methodology layer.
+
+GeoAI uses machine learning, deep learning, graph neural networks, spatiotemporal prediction, generative models, and visual language models, but the focus is on "spatialization." For example, remote sensing feature recognition, flood/fire detection, traffic prediction, site selection optimization, urban functional zone identification, and environmental exposure estimation are not merely simple classifications; rather, they enable the model to understand spatial structure and spatiotemporal processes.
+
+The third layer: The science and decision-making layer.
+
+Truly mature GeoAI not only achieves high accuracy but also supports geographic knowledge discovery and real-world decision-making, including disaster response, urban governance, ecological monitoring, public health, and infrastructure planning. Recent papers have also emphasized that GeoAI should not only focus on "task-oriented benchmarks" in the future, but should move towards stronger cross-modal reasoning, scientific discovery, interpretability, and ethical governance.
+
+
+## 读书笔记（真金）
 用发展的眼光看问题，这是一份终身职业，一份与你的一切不能分割的工作，有意义的失败远远比无意义的成果的有价值。狠狠地操练自己，你越强，找到你的观众越多。而不是你能讨好的人越多，你的观众越多。炸场是副产品，正如名利也是副产品。人是目的，不是手段。--《李诞脱口秀工作手册》
 
 好好活就是做有意义的事，做有意义的事，就是好好活。
