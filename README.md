@@ -57,6 +57,12 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **Security First: Geospatial Workflows for a Safe and Equitable World** — Edited volume emphasizing security-aware, ethical, and equity-driven geospatial workflows, integrating GIS, GeoAI, and decision-support systems for risk mitigation, public safety, and sustainable development.<br>
   https://www.esri.com/en-us/esri-press/browse/security-first-geospatial-workflows-for-a-safe-and-equitable-world
 
+- **GeoAI with Python: A Practical Guide to Open-Source Geospatial AI** — A hands-on, practice-oriented guide to applying GeoAI using Python and open-source tools.  
+  Covering **23 chapters (423 pages)**, this book walks through the full pipeline of geospatial AI workflows, including satellite and aerial imagery processing, data acquisition, interactive visualization, deep learning model training and evaluation, and no-code AI deployment in QGIS.  
+  All examples are fully reproducible with **open-source code and datasets**, making it highly suitable for both beginners and advanced practitioners in GeoAI.  
+  https://book.opengeoai.org  
+  *(Table of contents: https://books.gishub.org/geoai/book-toc.pdf)*
+
 ### GIS Programming & GeoAI Tools
 
 - **Earth Engine and Geemap: Geospatial Data Science with Python** — Qiusheng Wu (2023)  
