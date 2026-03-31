@@ -109,7 +109,7 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **CPGIS / Geoinformatics** — International Conference on Geoinformatics<br>
   https://www.cpgis.org/
   
-- **AutoCarto** — The Cartography and Geographic Information Society (CaGIS)<br>
+- **CaGIS** — The Cartography and Geographic Information Society (CaGIS)<br>
   https://cartogis.org/
 
 ### Major AI Conferences (Host Venues)
