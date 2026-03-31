@@ -404,6 +404,10 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   Research focuses on spatial statistics, geospatial artificial intelligence (GeoAI), explainable artificial intelligence (XAI), and open-source spatial modeling. Developer of GeoShapley and core contributor to PySAL and Multi-scale Geographically Weighted Regression (MGWR).  
   https://sites.google.com/view/ziqi-li
 
+- **Mobility Science Lab (MSL)** — Led by Dr. Yang Xu<br>
+  (https://www.polyu.edu.hk/lsgi/people/academic-staff/yang-xu/), The Hong Kong Polytechnic University.  
+  Research focuses on GIScience, urban informatics, human mobility analytics, and data-driven urban systems, leveraging large-scale geospatial data to understand human activity patterns and urban dynamics.  
+  https://mobility-science-lab.com/
 
 ## Journals
 
