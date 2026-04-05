@@ -963,6 +963,15 @@ These internships typically emphasize:
 
 
 ## Miscellaneous
+- **Google.org Impact Challenge: AI for Science**  
+  https://google.org/impact-challenges/ai-science/  
+
+  A global Google.org initiative designed to accelerate scientific breakthroughs through the power of AI. The program supports researchers and organizations working at the intersection of artificial intelligence and scientific discovery, with the goal of advancing understanding in areas such as human health, climate systems, and broader scientific innovation.  
+
+  The challenge includes substantial funding, tools, and technical support for selected projects. In addition to grant funding, participating organizations may also receive access to a Google.org Accelerator, dedicated pro bono support from Google experts, and Google Cloud credits to help translate scientific ideas into practical impact.
+
+  *Keywords:* AI for Science, Scientific Discovery, Google.org, Research Funding, AI Accelerator, Google Cloud, Breakthrough Science
+  
 - **OpenClaw — AI Agent Operational Principles (Video Explanation)**  
   https://youtu.be/2rcJdFuNbZQ  
 
