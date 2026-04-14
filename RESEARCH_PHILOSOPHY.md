@@ -7,19 +7,20 @@
 | # | Section | 内容 |
 |---|---------|------|
 | 1 | [Introduction · 引言](#introduction) | Research philosophy preamble |
-| 2 | [什么是我的博士专业？](#phd) | GIScience & GeoAI 的社会意义 |
-| 3 | [What is Disaster Resilience?](#disaster-resilience) | Tasks, data & model challenges |
-| 4 | [What is GenAI?](#genai) | Types, applications, 5M framework |
-| 5 | [Case Studies](#case-studies) | 4 case studies (monitoring → management) |
-| 6 | [Existing Challenges & Future Opportunities](#challenges) | Data, reliability, ethics, paths forward |
-| 7 | [What is GeoAI?](#geoai) | Three-layer framework |
-| 8 | [Dissertation Research Positions](#dissertation-positions) | Five core Q&As |
+| 2 | [导师寄语 · Advisor's Message](#advisor-message) | 邹老师的科研写作寄语 |
+| 3 | [什么是我的博士专业？](#phd) | GIScience & GeoAI 的社会意义 |
+| 4 | [What is Disaster Resilience?](#disaster-resilience) | Tasks, data & model challenges |
+| 5 | [What is GenAI?](#genai) | Types, applications, 5M framework |
+| 6 | [Case Studies](#case-studies) | 4 case studies (monitoring → management) |
+| 7 | [Existing Challenges & Future Opportunities](#challenges) | Data, reliability, ethics, paths forward |
+| 8 | [What is GeoAI?](#geoai) | Three-layer framework |
+| 9 | [Dissertation Research Positions](#dissertation-positions) | Five core Q&As |
 | — | &nbsp;&nbsp;[Q1 · Primary Contribution](#q1) | Proposing / Testing / Designing |
 | — | &nbsp;&nbsp;[Q2 · Novelty & Theoretical Innovations](#q2) | Empirical / Methodological / Theoretical |
 | — | &nbsp;&nbsp;[Q3 · Scope Beyond Damage Assessment](#q3) | Task-general architecture |
 | — | &nbsp;&nbsp;[Q4 · Contribution to AGI / Geo-Foundation Models](#q4) | GeoAGI direction |
 | — | &nbsp;&nbsp;[Q5 · Longevity & Future Relevance](#q5) | What lasts vs. what won't |
-| 9 | [读书笔记（真金）](#reading-notes) | Quotes & reflections |
+| 10 | [读书笔记（真金）](#reading-notes) | Quotes & reflections |
 
 > **How to search / 如何检索：** Use your browser's built-in search (`Ctrl/Cmd + F`) to find any keyword across the full document. Click any Table of Contents entry to jump directly to that section.
 
@@ -54,6 +55,78 @@ What follows is both a map of ideas and an invitation:
 to read carefully, to think spatially,
 and to explore how autonomous intelligence can deepen our understanding of the Earth and its complex systems.<br>
 很抱歉我会用我的母语（中文）来写我的研究哲学，翻译是极其简单的事情。如果你渴望了解，请翻译。
+
+↑ [Back to Top · 返回目录](#top)
+
+---
+
+<a id="advisor-message"></a>
+
+## 导师寄语 · Advisor's Message
+
+> 以下是邹老师在论文修改过程中给我的科研写作建议，字字珠玑，铭记于心。
+>
+> *The following is writing guidance from Professor Zou during manuscript revision — words worth carrying through the entire research career.*
+
+---
+
+### 🇨🇳 中文版
+
+**简洁（Be Concise）**  
+如果能用5个词说清楚的概念，就不要用10个词。文章中有些信息被反复提及——有时甚至在同一段落中重复出现。
+
+**清晰（Be Clear）**  
+你可能对很多重要概念有深刻理解，比如GenAI、LLM和LVM，但真正的挑战在于如何向审稿人/读者清楚地解释这些概念。好的科学写作不是堆砌相关术语，而是以精准、易于理解的方式阐述思想。
+
+**有条理（Be Organized）**  
+请特别注意段落之间及段落内部的逻辑流畅性。我花了相当多的时间梳理你文章的结构，并将其重新组织成更连贯的顺序。结构清晰的文章能让读者更容易理解你的论点。
+
+**具体（Be Specific）**  
+这篇文章讨论的是GenAI在灾害韧性中的应用。引言部分只需涵盖四个方面，每段都应具体回答以下问题：
+1. 什么是灾害韧性，为什么它很重要？
+2. 灾害韧性研究面临哪些挑战？
+3. 什么是GenAI，它为什么有望应对灾害韧性研究中的挑战？
+4. 这篇文章想要实现什么目标（研究目的）？
+5. （可选）本书章节的组织结构。
+
+**严谨（Be Meticulous）**  
+随着你逐渐成长为独立学者，更加关注写作中的细节非常重要。我可以帮你修改文章，但如果你自己去解决这些问题，你会进步得更快。这需要时间和努力，但这是你在学术生涯乃至更广阔人生中能培养的最宝贵的技能之一。
+
+**专注（Be Focused）**  
+我知道你同时在处理很多任务，这是一种令人印象深刻的能力。但是，当你在写一篇文章时，试着专注于把它打磨成符合你自己标准的作品。截止日期很重要，但不应以牺牲质量为代价。与其试图尽可能多地完成任务，不如致力于产出尽可能有影响力的成果。
+
+**积极（Be Positive）**  
+最后，保持积极的心态。我的批评性意见是为了帮助你成为独立学者（科学写作很难，我自己每天也在努力提高写作水平）。等你毕业的时候，你应该已经成为比我更优秀的研究者。
+
+---
+
+### 🇺🇸 English Version
+
+**Be Concise.**  
+If you can explain a concept in 5 words, do not use 10. Some information has been repetitively mentioned throughout the manuscript — sometimes even in the same paragraph.
+
+**Be Clear.**  
+You may have a deep understanding of many important concepts, e.g. GenAI, LLM, and LVM, but the challenge is to explain these concepts clearly to reviewers/readers. Good scientific writing is not about using many related terms; it is about explaining ideas in a way that is precise and easy to follow.
+
+**Be Organized.**  
+Please pay close attention to the logical flow across paragraphs and within each paragraph. I spent a considerable amount of time trying to follow the structure of your writing and reorganize it into a more coherent order. A well-organized manuscript makes it much easier for readers to understand your argument.
+
+**Be Specific.**  
+This paper discusses the use of GenAI in disaster resilience. The introduction just needs to cover four parts, and every paragraph should be specific in answering the questions in each part:
+1. What is disaster resilience, and why is it important?
+2. What are the challenges in disaster resilience research?
+3. What is GenAI, and why is it promising in addressing the challenges in disaster resilience research?
+4. What does this paper want to achieve (objectives)?
+5. *(Optional)* The organization of this book chapter.
+
+**Be Meticulous.**  
+As you grow into an independent scholar, it is important to pay closer attention to details in your writing. I can revise the manuscript for you, but you will learn much faster by working through these issues yourself. This takes time and effort, but it is one of the most valuable skills you can develop for your academic career and beyond.
+
+**Be Focused.**  
+I know you are working on many tasks at the same time, and that is an impressive ability. However, when you are working on a paper, try to focus on shaping it into a piece of work that meets your own standards. Deadlines are important, but they should not come at the cost of quality. Rather than trying to do as much as possible, aim to produce work that has as much impact as possible.
+
+**Be Positive.**  
+My critical comments are to help you become an independent scholar — scientific writing is hard, and I am still trying to improve my writing every day. By the time you graduate, you should become a better researcher than me.
 
 ↑ [Back to Top · 返回目录](#top)
 
