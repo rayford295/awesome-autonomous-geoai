@@ -619,6 +619,26 @@ These research engagements typically emphasize:
 
 > **Note:** IDRT opportunities are research-oriented and project-driven rather than traditional corporate internships. Engagement is typically established through direct contact with project leads or institute-affiliated faculty and is well-suited for PhD researchers pursuing GeoAI- and disaster-focused research trajectories.
 
+### **IDEAAL DR2 at University of Washington (Applied Learning Fellowship)**
+*Focus:* Disaster Research Response · Environmental Health · Public Health Disasters · Applied Hazards Research
+
+The **Investigations in Disasters and Emergencies: Advancing Applied Learning in Disaster Research Response (IDEAAL DR2)** fellowship is offered by the University of Washington **Center for Disaster Resilient Communities (CDRC)** in partnership with the **Bill Anderson Fund**. The program trains up to 25 advanced graduate students and early-career hazards and disaster researchers each year in environmental and public health disaster research methods.
+
+The fellowship combines prerequisite readings and online training, a weeklong in-person intensive at the University of Washington campus in Seattle, an applied research experience, and follow-up monthly online workshops. The 2026 in-person short course is scheduled for **July 27-31, 2026**.
+
+**Training themes include:**
+- Foundations of disaster research and public health emergency research
+- Reciprocity, community engagement, and research communication with affected communities and response partners
+- Disaster research methods across implementation science, exposure science, epidemiology, and data science
+- Tools for collecting, curating, managing, and sharing perishable disaster data
+- Research design, grant development, and implementation of a publishable disaster research project
+
+*Eligibility:* Advanced graduate students, postdoctoral scholars, assistant professors, research scientists, and equivalent early-career researchers; U.S.-based researchers are the primary audience, with international applicants considered case by case<br>
+*Financial support:* Need-based travel stipends are available for the Seattle in-person training week<br>
+*Website:* https://cdrc.uw.edu/what-we-do/education-and-training/applied-learning-fellowships/
+
+> **Note:** IDEAAL DR2 is a strong opportunity for GeoAI and disaster-intelligence researchers who want to connect technical methods with **public health disaster research, ethical field data collection, reciprocal community engagement, and publishable applied disaster research**. The 2026-2027 cohort application is closed; the program page states that the next application cycle is expected in late Winter 2027.
+
 ### **Arup (Risk & Resilience Engineering)**  
 *Focus:* Multi-Hazard Risk · Climate Resilience · Infrastructure Systems · Quantitative Risk Modeling  
 
