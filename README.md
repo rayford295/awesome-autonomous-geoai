@@ -503,6 +503,9 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 - **Hugging Face Transformers** — Foundation models and multimodal learning toolkit  
   https://huggingface.co/docs/transformers
 
+- **gfm-leaderboard** — Open-source benchmark and leaderboard infrastructure for comparing geospatial foundation models, with emphasis on evaluation transparency, reproducibility, and cross-model assessment in Earth observation workflows.  
+  https://github.com/taylor-geospatial/gfm-leaderboard
+
 - **GeoPandas** — Geospatial data structures and spatial operations in Python  
   https://geopandas.org/
 
