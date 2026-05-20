@@ -696,6 +696,30 @@ These roles typically emphasize:
 
 > **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well-suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
 
+### **Ready (Geospatial Data Engineering)**
+*Focus:* Geospatial Data Engineering · Airflow ELT · Spatial SQL · Applied AI Agents
+
+Ready is a remote-first startup building operational infrastructure for geospatial analysis and decision-making. Its **Data Intern** role is especially relevant for students and early-career researchers interested in production-grade geospatial data pipelines, spatial databases, cloud analytics, and applied AI systems.
+
+**Relevant internship role:**
+- Data Intern (Geospatial Data Engineering, Remote)
+
+This internship typically emphasizes:
+- Building and improving **Airflow ELT pipelines** that ingest, transform, and serve geospatial datasets at scale
+- Supporting an **Airflow 2 to Airflow 3 migration**, including DAG porting, parity validation, and legacy pipeline retirement
+- Writing type-hinted Python and spatial SQL across **PostGIS, Athena / Trino, PostgreSQL, Redshift, and DuckDB**
+- Developing **dbt models**, semantic layer definitions, and documented business logic for geospatial tables
+- Contributing to data quality systems, including schema validation, freshness monitoring, and spatial integrity checks
+- Supporting **DataHub** adoption for schema documentation, lineage tracking, and metadata management
+- Assisting with applied AI data agents using tools such as **LangGraph, LangChain, Bedrock Agent Core, MCP, and text-to-SQL workflows**
+
+*Location:* Remote; work is not permitted from China (excluding Hong Kong, Macau, and Taiwan), Russia, Iran, or North Korea<br>
+*Employment type:* Full-time, 3-month summer internship, then part-time through September<br>
+*Compensation:* $35-$40 per hour<br>
+*Website:* https://jobs.ashbyhq.com/ready/3db71e58-063f-461b-bf90-edf08dd53264
+
+> **Note:** Ready is a strong fit for students whose GeoAI trajectory includes **production geospatial data infrastructure**, not only model development. The role is particularly aligned with Airflow, dbt, spatial SQL, AWS-style data systems, and agent-enabled data access.
+
 ### **EarthScope Student Career Internship Program**
 *Focus:* Earth Science Education · Geophysical Data · Computing & Data Science
 
