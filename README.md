@@ -1144,6 +1144,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 ### 🌍 Industry Vision: Geospatial AI & Spatial Intelligence
 
+- **Bellwether / X — How Kansas City is Outpacing the Storm** — A field report on using drone imagery and geospatial AI for rapid post-disaster damage assessment in Kansas City, where Bellwether analyzed 407 homes in 20 minutes at 96% accuracy during an emergency response simulation.  
+  https://x.company/blog/posts/bellwether-kansas-city/
+
 - **Niantic Spatial – Geospatial AI: Beyond Maps**  
   https://www.nianticspatial.com/campaigns/geospatial-ai-beyond-maps
 
