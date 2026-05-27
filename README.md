@@ -937,6 +937,24 @@ Their platform operates at the intersection of **remote sensing, geospatial anal
 
 > **Positioning Insight:** ZestyAI sits at the intersection of **climate risk modeling, geospatial AI, and insurance decision systems**, making it strategically aligned with research trajectories in disaster intelligence, hazard modeling, and AI-driven resilience analytics.
 
+### **ICE Climate (Intercontinental Exchange)**  
+*Focus:* Climate Risk Analytics · Geospatial Intelligence · Fixed Income Data · Real Estate Risk · Sustainable Finance  
+
+ICE Climate, part of Intercontinental Exchange (ICE), provides **climate data and analytics** that connect **physical climate risk, climate transition risk, and alternative datasets** to **fixed income securities and real estate assets**. Its public materials explicitly emphasize a **geospatial intelligence platform** that links climate-related risks to asset classes including **municipals, mortgage-backed securities, sovereigns, corporates, and real estate**.
+
+This makes ICE Climate particularly relevant to researchers interested in the financial and operational layer of GeoAI: not only sensing hazards, but translating geospatial climate signals into **asset-level risk analytics, mortgage and property insights, portfolio assessment, and climate-aware decision support**. It is a strong example of how geospatial intelligence can be embedded into institutional finance, climate analytics, and large-scale risk infrastructure.
+
+**Technical relevance (for GeoAI / Climate / Physical Risk researchers):**
+- Geospatial linkage of physical climate risk to financial and real estate assets  
+- Asset- and portfolio-level climate risk analytics  
+- Property, mortgage, and securitized-product climate intelligence  
+- Integration of geospatial, alternative, and climate-transition datasets into decision systems  
+- Climate-aware analytics infrastructure for institutional users  
+
+*Website:* https://www.ice.com/fixed-income-data-services/ice-climate-data-analytics  
+
+> **Positioning Insight:** ICE Climate shows how **geospatial intelligence, climate risk modeling, and financial decision infrastructure** converge, making it highly relevant for researchers thinking about GeoAI beyond disaster response alone and into asset, portfolio, and market-scale physical risk analytics.
+
 ### **Zipline**  
 *Focus:* Autonomous Systems · Spatial Planning · Robotics · Geospatial Algorithms  
 
