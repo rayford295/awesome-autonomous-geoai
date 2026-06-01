@@ -1084,6 +1084,38 @@ These internships typically emphasize:
 
 > **Note:** Compared with traditional optical Earth observation companies, Synspective focuses on **SAR-based monitoring**, enabling **all-weather and nighttime Earth observation**, which is particularly valuable for disaster monitoring, infrastructure stability analysis, and environmental change detection.
 
+### **Treefera**  
+*Focus:* Supply Chain Intelligence · Remote Sensing ML · Climate Risk · Commodity Mapping · Nature Intelligence  
+
+Treefera is a London-based climate-tech company building a **first-mile intelligence platform** for global agricultural and soft-commodity supply chains. Its technical stack sits at the intersection of **Earth observation, remote sensing machine learning, geospatial risk analytics, and nature-linked supply-chain intelligence**, turning satellite, radar, and LiDAR observations into plot-level decision support for compliance, risk, cost, performance, and exposure.
+
+**Relevant full-time role:**
+- Machine Learning Scientist – Remote Sensing
+
+This role emphasizes:
+- Commodity and plantation mapping for products such as **palm oil, cocoa, coffee, rubber, soy, and timber**  
+- Multi-sensor fusion across **satellite, radar, and LiDAR** for forest degradation, biomass, and canopy-height estimation  
+- Building lightweight downstream workflows on top of **EO foundation models**, including few-shot classifiers, similarity search, and regressors  
+- Validation against plot inventories and third-party reference datasets, with uncertainty quantification and QA artefacts  
+- Partnering with engineering on scalable inference pipelines across **millions of plots**  
+
+**Preferred / required technical profile includes:**
+- Geospatial Python tools such as **rasterio, xarray, geopandas, GDAL, and STAC**  
+- Deep learning with **PyTorch** and classical ML with **scikit-learn**  
+- Remote sensing experience spanning **optical imagery, SAR, and/or LiDAR**  
+- Familiarity with **AWS or comparable cloud platforms**, Git-based collaboration, and production-oriented model development  
+- Exposure to **EO foundation models, multimodal fusion, time-series modeling, Google Earth Engine, Planetary Computer, or AWS Open Data**  
+
+*Location:* London  
+*Employment type:* Full time  
+*Location type:* Hybrid  
+*Department:* Platform › Science & Analytics  
+*Compensation:* £75K–£90K + equity + bonus  
+*Website:* https://www.treefera.com/  
+*Job posting:* https://jobs.ashbyhq.com/treefera/b814e3e3-2b63-4a5d-a537-943e629e7a70/application
+
+> **Positioning Insight:** Treefera is especially relevant for researchers interested in the convergence of **remote sensing foundation models, geospatial supply-chain intelligence, climate/nature risk analytics, and production-grade environmental AI systems**. It is a strong fit for trajectories that connect EO science with real-world operational decision-making.
+
 ### Reality Capture and Spatial Computing Company Map
 
 *Focus:* Reality Capture · Surveying · 3D Reconstruction · Digital Twins · Spatial Computing · Autonomous GeoAI Infrastructure
