@@ -1229,6 +1229,13 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
   Keywords: Earth Foundation Model, Satellite Embeddings, Representation Learning, Multimodal EO, Global Mapping, Google DeepMind
 
+- **Geospatial Embeddings: Compressing the Planet into Vectors (ESS Community AI/ML Blog)** — A primer by Jenna Abrahamson on how geospatial embeddings compress vast Earth observation datasets into compact, analysis-ready feature vectors produced by geospatial foundation models.  
+  https://esscommunity.org/aiml-blogs/posts/geo-embeddings/
+
+  Rather than processing raw satellite imagery, practitioners can leverage precomputed embeddings for downstream tasks such as land cover classification, change detection, and similarity search. The post compares leading embedding datasets — Google's AlphaEarth, OlmoEarth, and Clay — and clarifies the distinction between pixel-level and patch-level embeddings, with practical guidance for environmental monitoring and urban analysis workflows.
+
+  *Keywords:* Geospatial Embeddings, Geospatial Foundation Models, Earth Observation, Self-Supervised Learning, AlphaEarth, OlmoEarth, Clay, Change Detection
+
 - **GeoGuess Lite** — A lightweight, subscription-free online geography guessing game inspired by GeoGuessr, letting users explore random locations and test their spatial/geographic intuition without limits.  
   https://geoguesslite.com/
 
