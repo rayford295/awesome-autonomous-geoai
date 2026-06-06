@@ -176,6 +176,9 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 - **KDD – AI for Sciences Track (KDD 2026 Track)** — A new peer-reviewed track at KDD 2026 focusing on AI for scientific discovery, interdisciplinary AI applications (including climate, environmental science, and related data-driven research); accepted papers are included in the ACM Digital Library and indexed by Google Scholar.  
     https://kdd2026.kdd.org/ai4sciences-track-call-for-papers/?utm_source=chatgpt.com
 
+- **SensAI Hack** — An AI-focused hackathon bringing together developers, researchers, and builders to prototype applied AI projects; a venue for hands-on experimentation with autonomous and agentic systems.  
+  https://sensaihack.com/
+
 
 ### Workshops and Related Events (2025)
 - **CVPR – EarthVision: Large Scale Computer Vision for Remote Sensing Imagery (CVPR Workshop)** — A long-running workshop on machine learning and computer vision for Earth observation and remote sensing; accepted workshop papers are published in the official CVPR workshop proceedings, searchable via Google Scholar.<br>
@@ -553,6 +556,9 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 
 - **PostGIS** — Spatial database extension for PostgreSQL  
   https://postgis.net/
+
+- **CesiumJS** — Open-source JavaScript library for 3D globes and maps; renders high-precision geospatial data and 3D tiles in the browser for visualization and digital-twin applications  
+  https://cesium.com/platform/cesiumjs/
 
 
 ## Internship and Company
