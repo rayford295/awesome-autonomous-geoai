@@ -21,7 +21,8 @@
 | — | &nbsp;&nbsp;[Q4 · Contribution to AGI / Geo-Foundation Models](#q4) | GeoAGI direction |
 | — | &nbsp;&nbsp;[Q5 · Longevity & Future Relevance](#q5) | What lasts vs. what won't |
 | — | &nbsp;&nbsp;[Q6 · Contribution Framing After Advisor Feedback](#q6) | Methods, applications, resilience, governance |
-| 10 | [读书笔记（真金）](#reading-notes) | Quotes & reflections |
+| 10 | [PhD Journey · 博士旅程延伸](#phd-journey) | Ongoing supplements (companion repo) |
+| 11 | [读书笔记（真金）](#reading-notes) | Quotes & reflections |
 
 > **How to search / 如何检索：** Use your browser's built-in search (`Ctrl/Cmd + F`) to find any keyword across the full document. Click any Table of Contents entry to jump directly to that section.
 
@@ -445,6 +446,22 @@ Building on Dr. Zou's summary, I therefore see my dissertation as contributing p
 At the same time, I also see an important supporting contribution in **critical GeoAI thinking**, because responsible, fiduciary, and trustworthy AI are not secondary concerns in my work, but core design principles. What makes this dissertation distinctive is that it sits at the intersection of geography, disaster resilience, and AI. Compared with a purely computer science perspective, I am in a better position to define agent roles in ways that reflect the real structure of disaster resilience problems. Compared with a purely domain-oriented perspective, I am in a better position to understand what kinds of problems AI can realistically help solve, and how multimodal models, generative AI, and agent-based systems can be organized to support those tasks.
 
 My long-term goal is to develop an autonomous, extensible, and generalizable agentic GeoAI system that can adapt to new study regions, new hazard scenarios, and new downstream tasks. In this sense, even as AI continues to become more powerful, the roles of agents will continue to evolve rather than disappear.
+
+↑ [Back to Top · 返回目录](#top)
+
+---
+
+<a id="phd-journey"></a>
+
+## 博士旅程的延伸 · PhD Journey (Ongoing Supplements)
+
+这份研究哲学是一份会持续生长的文档。随着博士阶段的推进，更多关于研究、阅读、方法与心态演进的延伸内容，会沉淀在另一个仓库的 `phd-journey` 目录中：
+
+📚 **[rayford-knowledge-atlas / phd-journey](https://github.com/rayford295/rayford-knowledge-atlas/tree/main/phd-journey)**
+
+本文是出发点与主线，记录研究哲学的内核；`phd-journey` 则是它在时间维度上的延续——随时收录读书、阶段性反思与研究判断的更新。两者一同构成一份不断补充的博士旅程记录。
+
+This research philosophy is a living document. As the PhD journey unfolds, further reflections, reading notes, and methodological notes will continue to accumulate in the `phd-journey` directory of a companion repository (linked above). This file is the starting point and backbone; `phd-journey` is its continuation over time.
 
 ↑ [Back to Top · 返回目录](#top)
 
