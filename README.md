@@ -757,6 +757,25 @@ These roles typically emphasize:
 
 > **Note:** CARTO opportunities are platform- and systems-oriented, sitting between GeoAI research and production-grade spatial infrastructure. They are particularly well-suited for PhD researchers interested in **Agentic GIS, cloud-native spatial intelligence, and AI-driven geospatial automation**, rather than traditional desktop GIS or cartography-focused roles.
 
+### **Cyclomedia**
+*Focus:* Street-Level Reality Capture · LiDAR · Asset Intelligence · Digital Twins · Infrastructure Management
+
+Cyclomedia is a geospatial data and intelligence company that digitizes the outdoor built environment at scale. Its core stack combines high-accuracy street-level imagery, LiDAR point clouds, aerial imagery, cloud-based visualization, AI-powered asset analytics, and APIs for GIS and enterprise workflows.
+
+For Autonomous GeoAI researchers, Cyclomedia is relevant because it sits at the data and infrastructure layer for real-world spatial intelligence. Its products turn public roads, right-of-way assets, pavements, sidewalks, buildings, and utility contexts into measurable digital representations that support remote inspection, change awareness, asset inventories, and infrastructure decision-making. The company is especially close to research directions in street-view GeoAI, multimodal mobile mapping, public-space digital twins, infrastructure condition assessment, and AI-assisted urban operations.
+
+**Relevant technical themes include:**
+- Large-scale 360-degree street-level imagery and LiDAR capture
+- Multimodal asset extraction and condition assessment
+- Right-of-way intelligence for road safety, pedestrian safety, utilities, telecommunications, and tax/property workflows
+- Remote measurement, desktop inspection, and change analysis through Street Smart
+- GIS, CAD, asset-management, and enterprise integrations through APIs
+
+*Website:* https://www.cyclomedia.com/en-us<br>
+*Products:* https://www.cyclomedia.com/en-us/products/street-smart and https://www.cyclomedia.com/en-us/products/assets
+
+> **Positioning Insight:** Cyclomedia is best understood as an operational reality-capture and infrastructure-intelligence company rather than only a street-view imagery provider. It is a useful industry signal for GeoAI work that needs city-scale ground-level data, interpretable asset intelligence, and production integration with public-sector infrastructure workflows.
+
 ### **LGND (Geospatial AI Embeddings Platform)**  
 *Focus:* Earth Observation Foundation Models · Geospatial Embeddings · Vector Search · MCP · Agentic GeoAI  
 
@@ -1161,6 +1180,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 - **CHC Navigation / CHCNAV** - Navigation, positioning, and mapping technologies for geospatial, construction, navigation, and agriculture, including GNSS, LiDAR, UAV/USV, machine control, and real-time GNSS infrastructure.<br>
   https://www.chcnav.com/
+
+- **Cyclomedia** - Street-level mobile mapping, high-accuracy 360-degree imagery, LiDAR point clouds, AI-derived asset intelligence, Street Smart visualization, and GIS/API integrations for public-space and infrastructure management. See the detailed Cyclomedia entry above for GeoAI-oriented notes.<br>
+  https://www.cyclomedia.com/en-us
 
 - **Mosaic (Geospatial Imaging Leaders)** - Robust 360-degree mobile mapping camera systems and services for street-level imagery, mapping, surveying, infrastructure inspection, 3D reconstruction, and digital twin workflows. See the detailed Mosaic entry above for internship-oriented notes.<br>
   https://www.mosaic51.com/
