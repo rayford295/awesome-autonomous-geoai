@@ -23,6 +23,7 @@ covering theory, models, datasets, software, and applications in geospatial inte
   - [GIS Programming & GeoAI Tools](#gis-programming--geoai-tools)
 - [Conferences](#conferences)
   - [Major AI Conferences](#major-ai-conferences-host-venues)
+  - [Workshops & Events (2027)](#workshops-and-related-events-2027)
   - [Workshops & Events (2026)](#workshops-and-related-events-2026)
   - [Workshops & Events (2025)](#workshops-and-related-events-2025)
 - [Education](#education)
@@ -153,6 +154,14 @@ This list is **not exhaustive**, and community suggestions are welcome.*
 
 - **WACV** — IEEE/CVF Winter Conference on Applications of Computer Vision  
   https://wacv2025.thecvf.com/
+
+### Workshops and Related Events (2027)
+- **ACM TRUST 2027: Trustworthy Spatial AI Track**<br>
+  Call for Papers for the "Trustworthy Spatial AI: Advancing Responsible Intelligence for Spatial Data and Applications" track at the 2027 ACM International Conference on Trustworthy and Responsible AI and Computing Systems.
+  The conference will be held March 7-9, 2027, in Washington, DC.
+  The track covers responsible spatial AI, including privacy-preserving spatial algorithms, bias detection and mitigation, explainable spatial models, and governance for spatial data and applications.
+  Track chairs: Zhe Zhang (Texas A&M University), Shaowen Wang (University of Illinois Urbana-Champaign), Tianbao Yang (Texas A&M University), and Zhe Jiang (University of Florida).<br>
+  https://eigtrust.acm.org/trust2027/
 
 ### Workshops and Related Events (2026)
 - **GeoAI Conference (2026)** — A conference dedicated to GeoAI, spatial intelligence, and AI for geographic data science; includes workshops, tutorials, and industry sessions.  
