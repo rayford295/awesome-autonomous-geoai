@@ -164,6 +164,12 @@ This list is **not exhaustive**, and community suggestions are welcome.*
   https://eigtrust.acm.org/trust2027/
 
 ### Workshops and Related Events (2026)
+- **ACM SIGSPATIAL OASIS 2026 Student Challenge: Open Agents with Spatial Intelligence for Social Good** — The first ACM SIGSPATIAL student challenge on open-source GeoAI agents for social good. Student teams design autonomous agents that retrieve, clean, and analyze open geospatial data while supporting human-in-the-loop oversight for responsible, value-aligned spatial decision-making.<br>
+  **Important dates (Anywhere on Earth):** team early registration by July 31, 2026; short paper and code submission by September 4, 2026; finalist presentation and demo on November 3, 2026.<br>
+  **Track A: Disaster Resilience & Vulnerability Analysis** focuses on automated risk analysts for natural hazards such as earthquakes, floods, wildfires, and severe storms. Suggested problems include earthquake impact modeling in coastal cities, wildfire evacuation vulnerability in wildland-urban interfaces, and flood risk assessment for critical urban infrastructure. Key challenges include raster-vector hazard overlays, multiscale spatial joins, CRS mismatch resolution during ingestion, and trade-off analysis between physical economic loss, social marginalization, life-safety evacuation, and long-term recovery support. HITL controls can let emergency planners or community representatives adjust scenario assumptions and priority weights.<br>
+  **Track B: Public Health & Spatial Equity** focuses on public-health intervention siting and resource allocation, such as emergency cooling centers, mobile vaccine clinics, and environmental monitoring stations. Key challenges include location-allocation and coverage optimization, network travel time analysis under changing traffic or transit conditions, and trade-off analysis between financial cost, geographic coverage, population density, and equity for historically underserved or isolated communities. HITL controls can let public-health decision-makers tune equity constraints and coverage priorities.<br>
+  https://rsvp.withgoogle.com/events/oasis-2026
+
 - **GeoAI Conference (2026)** — A conference dedicated to GeoAI, spatial intelligence, and AI for geographic data science; includes workshops, tutorials, and industry sessions.  
   https://geoaiconference.org/
   
