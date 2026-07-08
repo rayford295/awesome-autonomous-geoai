@@ -566,6 +566,10 @@ with an emphasis on **CVPR and top-tier computer vision workshops**.
 - **Google Earth Engine** — Cloud-based geospatial analysis platform for Earth observation  
   https://earthengine.google.com/
 
+- **Google Flood Hub**: Public Google Research platform for AI-driven flood forecasting, river-gauge monitoring, flood alerts, and local inundation probability/history layers.<br>
+  It combines hydrology and inundation models to support flood preparedness up to 7 days in advance. Intended users include disaster agencies, NGOs, researchers, and people in flood-prone areas. Forecasts are informational and should be checked against official local sources.<br>
+  https://sites.research.google/floods/l/0/0/3
+
 - **GRASS GIS** — Advanced geospatial analysis and modeling system  
   https://grass.osgeo.org/
 
