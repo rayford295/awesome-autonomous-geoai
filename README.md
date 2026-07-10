@@ -625,6 +625,26 @@ For GeoAI researchers, Bellwether is especially relevant because it operationali
 
 > **Note:** Bellwether is particularly important for researchers whose GeoAI trajectory includes **disaster intelligence, geospatial reasoning, risk forecasting, and public-sector response systems**. It represents a strong example of GeoAI moving from mapping toward action-oriented Earth prediction.
 
+### **Inunda**  
+*Focus:* Flood Inundation Modeling · Differentiable Simulation · GPU Computing · Agent-Enabled GeoAI · Global Hazard Modeling  
+
+Inunda describes itself as a **GPU-based, agent-enabled, differentiable flood inundation model** — "run a flood inundation model, fast, anywhere on the globe." Each of those three adjectives marks a departure from traditional hydrodynamic software (HEC-RAS, LISFLOOD-FP and kin), and together they sketch what a **simulation layer built for autonomous GeoAI** looks like:
+
+- **GPU-based** — hydrodynamic simulation at interactive speed rather than overnight batch runs, enabling near-real-time inundation mapping during an unfolding event;  
+- **Differentiable** — gradients flow through the physics, so the model can be **calibrated end-to-end, embedded in hybrid ML–physics training loops, used for data assimilation, and inverted** (e.g., inferring boundary conditions or roughness fields from observed flood extents);  
+- **Agent-enabled** — the simulator is exposed as a **callable tool for LLM/GeoAI agents**, turning flood modeling from a desktop workflow into an *action* inside an autonomous reasoning loop ("simulate this levee breach, compare against the satellite-observed extent, revise").  
+
+**Relevant technical themes include:**
+- Differentiable physics and physics-informed ML for Earth-system simulation  
+- Simulation-as-a-tool interfaces for autonomous GeoAI agents  
+- Rapid global flood inundation mapping and forecasting  
+- Inverse modeling and data assimilation with EO observations  
+- GPU-accelerated shallow-water solvers for time-critical decision support  
+
+*Website:* https://inunda.ai/
+
+> **Note:** Public information is currently minimal (the site is a single-page teaser), so treat this as an early-stage signal rather than a documented platform. It is worth watching precisely because it packages the three ingredients — speed, differentiability, and an agent interface — that turn a physical simulator into a **tool call for autonomous GeoAI**, the same "assessment → action" layer that agent benchmarks like GeoDisaster (flood-safe routing, SAR flood monitoring) are beginning to evaluate.
+
 ### **Niantic Spatial**  
 *Focus:* Spatial Intelligence · GeoAI · Visual Localization · 3D Reconstruction · Large Geospatial Models  
 
