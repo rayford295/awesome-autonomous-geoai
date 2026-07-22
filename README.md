@@ -666,6 +666,27 @@ For GeoAI and computer vision researchers, Niantic Spatial is relevant to proble
 
 > **Note:** Niantic Spatial should be understood not just as an AR company descendant, but as a leading **spatial foundation-model and physical-AI infrastructure company**. It is highly relevant for work on GeoAI, digital twins, robotics perception, and large-scale spatial representation learning.
 
+### **WAYZ.AI (维智科技)**
+*Focus:* Spatiotemporal AI · Urban Digital Twins · Spatial Knowledge Graphs · Decision Intelligence · IoT Positioning
+
+WAYZ.AI is a Shanghai-based enterprise and city intelligence company that develops an end-to-end **spatiotemporal AI** stack for decision support. Its Phy-gital platform combines spatiotemporal sensing, knowledge graphs, analytics, and intelligent interaction to help public-sector and commercial users move from observing spatial data to operational decisions.
+
+For Autonomous GeoAI researchers, WAYZ.AI is relevant as an example of production-grade spatial intelligence aimed at **urban operations, emergency management, transport, retail, and finance**. Its public materials describe city-scale digital-twin engines and a large multimodal spatiotemporal knowledge graph, while its WAYZING platform connects multi-source location and IoT signals for indoor and outdoor sensing.
+
+**Relevant technical themes include:**
+- Spatiotemporal knowledge graphs and multimodal spatial data integration
+- City digital twins for dynamic urban sensing, analysis, prediction, and decision support
+- Location intelligence across GPS, Wi-Fi, cellular, Bluetooth, and IP signals
+- IoT device monitoring, geofencing, tracking, and spatial operations
+- Applied GeoAI for smart-city management, emergency response, mobility, and commercial site intelligence
+
+*Location:* Shanghai, China
+*Website:* https://www.wayz.ai/
+*Company overview:* https://www.wayz.ai/aboutus
+*IoT positioning platform:* https://www.wayz.ai/wayzingproduct
+
+> **Positioning Insight:** WAYZ.AI is best viewed as a decision-intelligence and digital-twin operator built on spatiotemporal AI, rather than only a mapping or visualization vendor. It shows how spatial data, graph-based representations, and sensing infrastructure can support operational GeoAI in cities and enterprises.
+
 ### **Spexi**  
 *Focus:* Drone Imagery Infrastructure · Spatial AI Training Data · Digital Twins · Photogrammetry · Physical AI  
 
@@ -1252,6 +1273,9 @@ This company map collects firms and ecosystem organizations relevant to autonomo
 
 - **Skyline Software Systems** - 3D geospatial software for photogrammetry, 3D mesh and Gaussian Splatting models, TerraExplorer, SkylineGlobe Server, digital twins, mapping, surveying, drone inspection, and city planning.<br>
   https://www.skylinesoft.com/
+
+- **WAYZ.AI (维智科技)** - Spatiotemporal-AI decision-intelligence platform for city and enterprise digital twins; combines spatial sensing, multimodal spatiotemporal knowledge graphs, IoT positioning, and analytics for urban operations, emergency management, mobility, and commercial decision support. See the detailed WAYZ.AI entry above for GeoAI-oriented notes.<br>
+  https://www.wayz.ai/
 
 - **QuaternAR** - XR collaboration runtime for synchronized shared 3D environments across AR/VR headsets, 3D displays, desktops, and tablets. Relevant to spatial computing interfaces for collaborative geospatial or industrial scenes.<br>
   https://quaternar.com/
