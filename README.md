@@ -602,6 +602,34 @@ These internships typically emphasize:
 
 > **Note:** Applicants should distinguish research- and AI-focused internships from general GIS or cartography roles, which are more application-oriented and less aligned with research-driven GeoAI trajectories.
 
+### **ByteDance Seed — STEM Scientist Program (Seed STEM 科学家计划)**
+*Focus:* AI4Science · Foundation Models · Mathematics · Physics · Chemistry · Biology · Materials Science
+
+ByteDance's **Seed** team (the group behind Seed 2.1, Seedance, Seedream, and related foundation models) is inviting **100 outstanding researchers from frontier STEM fields** to work on-site with the Seed team on **real scientific research problems**, using AI to accelerate scientific discovery and push the boundaries of machine intelligence. The first cohort runs for approximately **6 months**.
+
+**Two participation tracks:**
+- **Scientist Advisor** — scholars at academic institutions or senior industry experts in STEM fields
+- **PhD Research Intern** — current PhD students with strong interest in exploring frontier problems with AI
+
+**Who should apply:**
+- Holds or is pursuing a PhD in a STEM field (or equivalent research experience)
+- Deep academic grounding and thorough understanding of their discipline
+- Strong conviction in AI-accelerated scientific discovery, with clear judgment of AI's application value and current capability boundaries in their own field
+- Uses AI extensively as a productivity tool in daily research; programming proficiency preferred
+
+**What participants get:**
+- Large-scale compute resources for ambitious frontier research
+- Close collaboration with a professional AI research team
+- Highly competitive industry compensation
+
+*Application materials:* program application form + a short statement (1–2 problems in your field you most want to solve, and how you use AI in your work) + CV including 1–2 representative publications
+*Listed disciplines:* Mathematics, Physics, Chemistry, Biology, Materials Science, and other basic disciplines that can deeply integrate with large models
+*Deadline:* September 30, 2026
+*Contact:* SeedSTEM@bytedance.com
+*Website:* https://seed.bytedance.com/zh/
+
+> **Note:** Although the listed disciplines are core STEM fields, the program explicitly welcomes **any basic discipline that can deeply integrate with large models** — making it directly relevant for Earth science, remote sensing, and GeoAI researchers who use AI as a first-class research instrument. Program materials are in Chinese; positions involve on-site collaboration with the Seed team.
+
 ### Geospatial / Physical AI Companies
 
 ### **Bellwether (X / Google)**  
